@@ -1,7 +1,6 @@
-import os
 import requests
 import timeit
-from datetime import datetime, timedelta
+from datetime import datetime
 import pandas as pd
 import io
 
