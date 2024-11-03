@@ -1,0 +1,21 @@
+id,Region,Country Code,Country,Distance Unit,Fuel Unit,Temperature Unit,Currency Code
+1,UK,GB,United Kingdom,miles,litres,Celsius,GBP
+2,Europe,EU,France,kilometers,litres,Celsius,EUR
+3,Europe,EU,Germany,kilometers,litres,Celsius,EUR
+4,Europe,EU,Spain,kilometers,litres,Celsius,EUR
+5,Europe,EU,Italy,kilometers,litres,Celsius,EUR
+6,Europe,EU,Netherlands,kilometers,litres,Celsius,EUR
+7,Europe,EU,Sweden,kilometers,litres,Celsius,SEK
+8,Europe,EU,Norway,kilometers,litres,Celsius,NOK
+9,Europe,EU,Finland,kilometers,litres,Celsius,EUR
+10,Europe,EU,Poland,kilometers,litres,Celsius,PLN
+11,Europe,EU,Belgium,kilometers,litres,Celsius,EUR
+12,Europe,EU,Denmark,kilometers,litres,Celsius,DKK
+13,Europe,EU,Switzerland,kilometers,litres,Celsius,CHF
+14,Asia,AS,Japan,kilometers,litres,Celsius,JPY
+15,Asia,AS,China,kilometers,litres,Celsius,CNY
+16,Asia,AS,India,kilometers,litres,Celsius,INR
+17,North America,NA,United States,miles,gallons,Fahrenheit,USD
+18,North America,NA,Canada,miles,gallons,Fahrenheit,CAD
+19,Oceania,OC,Australia,kilometers,litres,Celsius,AUD
+20,Oceania,OC,New Zealand,kilometers,litres,Celsius,NZD
