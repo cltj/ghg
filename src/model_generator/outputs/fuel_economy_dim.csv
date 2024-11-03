@@ -1,0 +1,53 @@
+id,Fuel Type,Vehicle Class,Engine Size/Weight Class,MPG,KM/L,fk_mode_of_transport
+1,Petrol (100% mineral petrol) (Motor Gasoline),Passenger Car,"Small car, <1.4 litre",39.1,16.6,road
+2,Petrol (100% mineral petrol) (Motor Gasoline),Passenger Car,"Medium car, 1.4 - 2.0 litres",30.9,13.1,road
+3,Petrol (100% mineral petrol) (Motor Gasoline),Passenger Car,"Large car, >2.0 litres",20.2,8.6,road
+4,Petrol (100% mineral petrol) (Motor Gasoline),Passenger Car,Average car,33.6,14.3,road
+5,Petrol (100% mineral petrol) (Motor Gasoline),Vans,"Class I, ≤1.305 tonnes",30.2,12.8,road
+6,Petrol (100% mineral petrol) (Motor Gasoline),Vans,"Class II, >1.305 to ≤1.74 tonnes",28.1,11.9,road
+7,Petrol (100% mineral petrol) (Motor Gasoline),Vans,"Class III, >1.74 to ≤3.5 tonnes",17.5,7.4,road
+8,Petrol (100% mineral petrol) (Motor Gasoline),Vans,Average (up to 3.5 tonnes),27.3,11.6,road
+9,Petrol (100% mineral petrol) (Motor Gasoline),Motorbike,"Small, ≤125 cc",67.7,28.8,road
+10,Petrol (100% mineral petrol) (Motor Gasoline),Motorbike,"Medium, >125 and ≤500 cc",55.8,23.7,road
+11,Petrol (100% mineral petrol) (Motor Gasoline),Motorbike,"Large, >500 cc",41.9,17.8,road
+12,Petrol (100% mineral petrol) (Motor Gasoline),Motorbike,Average,49.2,20.9,road
+13,Diesel (100% mineral diesel),Passenger Car,"Small car, <1.7 litre",44.9,19.1,road
+14,Diesel (100% mineral diesel),Passenger Car,"Medium car, 1.7 - 2.0 litres",37.3,15.9,road
+15,Diesel (100% mineral diesel),Passenger Car,"Large car, >2.0 litres",29.9,12.7,road
+16,Diesel (100% mineral diesel),Passenger Car,Average car,36.7,15.6,road
+17,Diesel (100% mineral diesel),Vans,Average (up to 3.5 tonnes),26.9,11.4,road
+18,Diesel (100% mineral diesel),HGV,Rigid - 3.5 - 7.5 tonnes - 0% Weight Laden,13.8,5.9,road
+19,Diesel (100% mineral diesel),HGV,Rigid - 3.5 - 7.5 tonnes - 50% Weight Laden,12.7,5.4,road
+20,Diesel (100% mineral diesel),HGV,Rigid - 3.5 - 7.5 tonnes - 100% Weight Laden,11.8,5.0,road
+21,Diesel (100% mineral diesel),HGV,Rigid - 3.5 - 7.5 tonnes - Average Laden,12.9,5.5,road
+22,Diesel (100% mineral diesel),HGV,Rigid - 7.5 - 17 tonnes - 0% Weight Laden,11.6,4.9,road
+23,Diesel (100% mineral diesel),HGV,Rigid - 7.5 - 17 tonnes - 50% Weight Laden,10.1,4.3,road
+24,Diesel (100% mineral diesel),HGV,Rigid - 7.5 - 17 tonnes - 100% Weight Laden,9.0,3.8,road
+25,Diesel (100% mineral diesel),HGV,Rigid - 7.5 - 17 tonnes - Average Laden,10.5,4.5,road
+26,Diesel (100% mineral diesel),HGV,Rigid - >17 tonnes - 0% Weight Laden,8.4,3.6,road
+27,Diesel (100% mineral diesel),HGV,Rigid - >17 tonnes - 50% Weight Laden,6.9,2.9,road
+28,Diesel (100% mineral diesel),HGV,Rigid - >17 tonnes - 100% Weight Laden,5.8,2.5,road
+29,Diesel (100% mineral diesel),HGV,Rigid - >17 tonnes - Average Laden,6.4,2.7,road
+30,Diesel (100% mineral diesel),HGV,Rigid - Average - Average Laden,7.6,3.2,road
+31,Diesel (100% mineral diesel),HGV,Articulated - 3.5 - 33 tonnes - 0% Weight Laden,10.2,4.4,road
+32,Diesel (100% mineral diesel),HGV,Articulated - 3.5 - 33 tonnes - 50% Weight Laden,8.2,3.5,road
+33,Diesel (100% mineral diesel),HGV,Articulated - 3.5 - 33 tonnes - 100% Weight Laden,6.8,2.9,road
+34,Diesel (100% mineral diesel),HGV,Articulated - 3.5 - 33 tonnes - Average Laden,8.2,3.5,road
+35,Diesel (100% mineral diesel),HGV,Articulated - >33 tonnes - 0% Weight Laden,10.0,4.2,road
+36,Diesel (100% mineral diesel),HGV,Articulated - >33 tonnes - 50% Weight Laden,7.5,3.2,road
+37,Diesel (100% mineral diesel),HGV,Articulated - >33 tonnes - 100% Weight Laden,6.0,2.5,road
+38,Diesel (100% mineral diesel),HGV,Articulated - >33 tonnes - Average Laden,6.9,2.9,road
+39,Diesel (100% mineral diesel),HGV,Articulated - Average - Average Laden,6.9,2.9,road
+40,Diesel (100% mineral diesel),HGV,Type Unknown - Average - Average Laden,7.2,3.1,road
+41,Hybrid,Passenger Car,"Small car, <1.4 litre",54.6,23.2,road
+42,Hybrid,Passenger Car,"Medium car, 1.4 - 2.0 litres",50.8,21.6,road
+43,Hybrid,Passenger Car,"Large car, >2.0 litres",36.3,15.4,road
+44,Hybrid,Passenger Car,Average car,46.5,19.8,road
+45,Compressed Natural Gas (CNG),Passenger Car,"Medium car, 1.4 - 2.0 litres",38.4,16.3,road
+46,Compressed Natural Gas (CNG),Passenger Car,"Large car, >2.0 litres",25.1,10.7,road
+47,Compressed Natural Gas (CNG),Passenger Car,Average car,34.3,14.6,road
+48,Compressed Natural Gas (CNG),Vans,Average (up to 3.5 tonnes),25.7,10.9,road
+49,Liquefied Petroleum Gases (LPG),Passenger Car,"Medium car, 1.4 - 2.0 litres",42.3,18.0,road
+50,Liquefied Petroleum Gases (LPG),Passenger Car,"Large car, >2.0 litres",27.7,11.8,road
+51,Liquefied Petroleum Gases (LPG),Passenger Car,Average car,37.8,16.1,road
+52,Liquefied Petroleum Gases (LPG),Vans,Average (up to 3.5 tonnes),29.2,12.4,road

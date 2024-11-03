@@ -1,0 +1,6 @@
+id,type_of_activity
+1,Fuel Use
+2,Fuel Use and Vehicle Distance
+3,Vehicle Distance (e.g. Road Transport)
+4,Custom fuel
+5,Custom vehicle

@@ -4,7 +4,8 @@ region = ['US', 'UK', 'Other']
 mode_of_transport = ['Road', 'Rail', 'Water', 'Aircraft', 'Offroad']
 scope = [1,2,3]
 type_of_activity = [
-    'Fuel Use','Fuel Use and Vehicle Distance', 
+    'Fuel Use',
+    'Fuel Use and Vehicle Distance', 
     'Vehicle Distance (e.g. Road Transport)', 
     'Custom fuel', 
     'Custom vehicle']
@@ -31,6 +32,7 @@ fuel_used = [
     'Motor Gaoline/Petrol', 
     'On-Road Diesel Fuel', 
     'Recidual Fuel',
+    'Hybrid',
     'Liquefied Petrolium Gases (LPG)',
     'Compressed Natural Gas (CNG)'
     ]
@@ -41,7 +43,7 @@ unit_of_fuel_amount = [
     'Litre', 
     'Barrel', 
     'Standard Cubic Foot', 
-    ' Cubic Foot', 
+    'Cubic Foot', 
     'Cubic Meter'
     ]
 
