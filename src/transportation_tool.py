@@ -120,7 +120,7 @@ fuel_economy_data = {
             "Articulated - 3.5 - 33 tonnes - 0% Weight Laden": {"mpg": 10.2, "km/L": 4.4},
             "Articulated - 3.5 - 33 tonnes - 50% Weight Laden": {"mpg": 8.2, "km/L": 3.5},
             "Articulated - 3.5 - 33 tonnes - 100% Weight Laden": {"mpg": 6.8, "km/L": 2.9},
-            "Articulated - 3.5 - 33 tonnes - Average Laden": {"mpg": 8.2, "km/L": 3.5},
+          "Articulated - 3.5 - 33 tonnes - Average Laden": {"mpg": 8.2, "km/L": 3.5},
             "Articulated - >33 tonnes - 0% Weight Laden": {"mpg": 10.0, "km/L": 4.2},
             "Articulated - >33 tonnes - 50% Weight Laden": {"mpg": 7.5, "km/L": 3.2},
             "Articulated - >33 tonnes - 100% Weight Laden": {"mpg": 6.0, "km/L": 2.5},

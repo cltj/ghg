@@ -1,0 +1,1001 @@
+id,date,fuel_used,type_of_activity,mode_of_transport,scope_id,distance_travelled,vehicle_type,engine_size,weight_class,source_description,region,country
+1,2023-12-14,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,928,Vans,2.0,1303,Significant to.,OC,Australia
+2,2024-02-29,Compressed Natural Gas (CNG),Custom vehicle,Road,1,638,Passenger car,2.4,1209,Bit store wall past.,AS,China
+3,2022-07-31,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,458,Passenger car,2.4,4895,Fact black stuff.,OC,New Zealand
+4,2024-06-02,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,760,Passenger car,2.4,6411,Stuff manager.,UK,United Kingdom
+5,2023-12-22,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,512,Vans,3.0,6920,Today police one difference.,NA,Canada
+6,2024-02-29,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,452,Passenger car,2.4,1228,Sit difference body successful us perhaps.,NA,Canada
+7,2024-12-22,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,826,Passenger car,3.0,1224,If interesting.,OC,New Zealand
+8,2024-04-08,Hybrid,Custom fuel,Road,1,566,Passenger car,2.4,1278,Choice worker.,UK,United Kingdom
+9,2023-09-07,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,639,Vans,2.4,1032,Picture specific address.,NA,United States
+10,2024-02-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,964,Passenger car,3.0,1113,Notice keep.,EU,Poland
+11,2024-06-03,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,983,Vans,3.0,2141,Follow catch member analysis about something.,EU,Switzerland
+12,2022-04-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,819,Passenger car,1.8,1592,But tell store.,AS,Japan
+13,2022-01-28,Diesel (100% mineral diesel),Custom fuel,Road,1,934,Vans,1.8,1534,Question financial campaign street.,UK,United Kingdom
+14,2024-02-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,672,Passenger car,1.8,6909,Low some physical.,OC,New Zealand
+15,2023-11-28,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,729,Vans,1.8,1480,Goal test need.,OC,Australia
+16,2023-04-22,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,542,Passenger car,1.8,1209,Key wish party certain radio because.,EU,Belgium
+17,2023-05-21,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,811,Vans,1.3,5589,Mother course.,NA,United States
+18,2023-02-23,Compressed Natural Gas (CNG),Custom vehicle,Road,3,847,Passenger car,2.0,1366,Ok western scene increase.,OC,New Zealand
+19,2024-02-16,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,713,Passenger car,1.3,1477,Eat at home throughout call expect.,OC,New Zealand
+20,2023-02-28,Hybrid,Fuel Use,Road,3,724,Vans,1.3,6478,Business they yourself.,NA,Canada
+21,2024-05-19,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,844,Vans,1.8,1667,Decide budget sort everybody suffer share.,NA,United States
+22,2023-04-12,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,728,Vans,2.4,1125,Thus fight hotel song nor.,OC,New Zealand
+23,2023-04-26,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,589,Passenger car,1.8,2970,Order east deep mention.,NA,United States
+24,2022-06-26,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,565,Vans,1.3,1388,Director third soldier note.,AS,China
+25,2024-02-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,694,Vans,2.0,1310,Act national within behind two.,UK,United Kingdom
+26,2024-08-06,Compressed Natural Gas (CNG),Custom fuel,Road,3,573,Passenger car,1.8,1417,Support size still.,UK,United Kingdom
+27,2024-02-08,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,730,Vans,1.3,2045,Probably especially.,UK,United Kingdom
+28,2022-01-14,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,437,Passenger car,2.4,1119,Quickly general.,EU,Italy
+29,2024-06-18,Diesel (100% mineral diesel),Custom vehicle,Road,3,658,Passenger car,2.0,1667,Oil major.,AS,China
+30,2024-11-27,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,483,Vans,2.4,1146,War southern.,OC,Australia
+31,2024-03-24,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,667,Vans,3.0,2062,Us start.,AS,China
+32,2024-12-06,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,617,Vans,3.0,1445,Whatever and conference.,UK,United Kingdom
+33,2023-03-13,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,959,Passenger car,3.0,7329,Five election.,AS,India
+34,2023-10-11,Compressed Natural Gas (CNG),Fuel Use,Road,1,503,Passenger car,1.8,1015,Analysis environment two.,OC,Australia
+35,2024-06-08,Diesel (100% mineral diesel),Custom fuel,Road,3,896,Passenger car,2.0,3521,Actually material perform.,OC,New Zealand
+36,2024-12-25,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,615,Passenger car,2.4,3060,Hard operation.,UK,United Kingdom
+37,2022-11-15,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,772,Passenger car,2.4,1388,Sit moment.,UK,United Kingdom
+38,2022-02-16,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,527,Vans,1.3,5020,Professional become democratic wait.,OC,New Zealand
+39,2022-01-13,Compressed Natural Gas (CNG),Fuel Use,Road,3,464,Vans,2.4,3484,Page north try.,EU,Poland
+40,2023-10-25,Hybrid,Custom fuel,Road,1,559,Passenger car,2.0,1170,Situation theory nearly case.,UK,United Kingdom
+41,2022-12-26,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,968,Vans,3.0,3229,Protect.,OC,Australia
+42,2023-05-07,Hybrid,Custom vehicle,Road,1,720,Passenger car,1.8,1278,Treat coach.,OC,Australia
+43,2024-08-06,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,410,Passenger car,1.3,1414,Seek foreign.,UK,United Kingdom
+44,2024-06-22,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,976,Passenger car,3.0,1208,Man economic doctor recently including day.,AS,China
+45,2022-10-26,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,783,Passenger car,1.3,1035,Everything dark inside.,OC,New Zealand
+46,2023-08-31,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,850,Vans,1.3,1467,Find beyond.,EU,Spain
+47,2023-03-16,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,479,Vans,1.3,1148,Ahead machine fill.,EU,Italy
+48,2023-03-06,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,912,Passenger car,1.3,1125,Continue social.,EU,Poland
+49,2022-05-17,Diesel (100% mineral diesel),Fuel Use,Road,3,642,Vans,2.4,1558,Certain room care.,AS,China
+50,2023-11-25,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,889,Vans,3.0,1690,Above husband.,UK,United Kingdom
+51,2022-12-29,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,596,Vans,2.0,7039,Oil price moment operation north.,AS,India
+52,2023-01-17,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,920,Passenger car,1.3,1514,Surface artist century.,AS,China
+53,2023-04-21,Diesel (100% mineral diesel),Fuel Use,Road,1,866,Passenger car,3.0,5851,Left character factor.,EU,Norway
+54,2022-10-27,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,549,Passenger car,1.8,6492,Perform maintain understand.,NA,United States
+55,2022-11-06,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,414,Passenger car,2.0,1562,Mean suddenly protect.,NA,United States
+56,2023-03-08,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,906,Vans,1.8,1459,I drive.,NA,Canada
+57,2022-03-14,Compressed Natural Gas (CNG),Custom fuel,Road,3,682,Vans,2.0,1097,Serious high series use.,EU,France
+58,2022-07-13,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,506,Vans,1.8,2013,Foot happen.,AS,India
+59,2022-06-21,Hybrid,Fuel Use and Vehicle Distance,Road,3,719,Vans,2.4,1437,Relationship write three.,UK,United Kingdom
+60,2024-10-12,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,434,Passenger car,2.0,4313,Above surface everyone believe tonight.,NA,United States
+61,2023-09-21,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,414,Vans,3.0,1481,Food role brother low.,NA,United States
+62,2023-05-29,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,477,Passenger car,1.8,1416,Instead production.,UK,United Kingdom
+63,2024-11-27,Compressed Natural Gas (CNG),Custom vehicle,Road,3,762,Passenger car,1.8,6575,Dream cause conference early change.,UK,United Kingdom
+64,2022-02-10,Hybrid,Custom vehicle,Road,3,716,Vans,2.0,1229,Might send baby occur.,OC,New Zealand
+65,2022-04-22,Diesel (100% mineral diesel),Fuel Use,Road,1,993,Passenger car,1.3,1242,Million usually rule.,UK,United Kingdom
+66,2022-09-29,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,630,Passenger car,1.8,1065,Fast defense back.,EU,Belgium
+67,2024-03-16,Hybrid,Custom fuel,Road,3,546,Passenger car,3.0,1231,City street pattern.,EU,Poland
+68,2023-11-30,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,780,Vans,3.0,4625,Sell lawyer current.,OC,New Zealand
+69,2022-05-30,Diesel (100% mineral diesel),Fuel Use,Road,1,901,Passenger car,1.8,1074,Couple on dream anyone themselves majority.,UK,United Kingdom
+70,2024-11-22,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,708,Passenger car,1.8,1166,Gun couple.,AS,India
+71,2024-09-25,Compressed Natural Gas (CNG),Fuel Use,Road,1,804,Vans,1.3,1249,Big individual.,AS,Japan
+72,2022-01-05,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,404,Passenger car,2.4,1086,Receive enter employee.,OC,New Zealand
+73,2024-01-23,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,769,Passenger car,1.8,1580,Kid firm knowledge occur.,AS,China
+74,2024-01-24,Hybrid,Custom vehicle,Road,1,866,Vans,1.8,1109,Wrong thank.,EU,France
+75,2024-08-01,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,709,Passenger car,1.8,5072,Point respond affect politics.,AS,China
+76,2023-05-25,Diesel (100% mineral diesel),Custom fuel,Road,1,583,Passenger car,2.4,1195,Strategy wish time.,AS,China
+77,2024-11-19,Compressed Natural Gas (CNG),Fuel Use,Road,3,940,Passenger car,3.0,1733,Her water risk treat card.,UK,United Kingdom
+78,2023-04-08,Hybrid,Custom vehicle,Road,3,883,Vans,2.4,1056,Everyone garden nothing trouble.,OC,New Zealand
+79,2024-10-11,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,448,Vans,2.4,1818,Increase remain discuss.,NA,United States
+80,2023-08-18,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,424,Vans,2.0,1039,Card pull per.,AS,India
+81,2022-01-08,Diesel (100% mineral diesel),Custom fuel,Road,1,605,Vans,1.3,1209,Class investment.,AS,Japan
+82,2023-04-04,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,464,Vans,2.4,1012,Drop similar including.,EU,Switzerland
+83,2024-12-14,Diesel (100% mineral diesel),Custom vehicle,Road,1,631,Vans,1.8,1562,Fall me.,OC,Australia
+84,2024-08-12,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,702,Vans,3.0,1723,Cost less say.,EU,Italy
+85,2024-01-31,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,495,Passenger car,1.8,1394,Church effect.,AS,India
+86,2022-10-05,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,938,Vans,2.4,6634,Chance political town all down.,EU,Denmark
+87,2024-02-26,Compressed Natural Gas (CNG),Fuel Use,Road,3,512,Vans,2.4,1824,Care nor.,AS,China
+88,2023-09-26,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,908,Passenger car,2.4,5137,Democrat reduce number.,NA,United States
+89,2023-10-29,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,773,Passenger car,1.8,1782,Little window law research.,EU,Netherlands
+90,2022-06-03,Hybrid,Fuel Use,Road,3,401,Vans,1.8,5941,Behind great concern.,EU,Switzerland
+91,2024-03-07,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,497,Passenger car,1.3,1225,Economic lot.,OC,New Zealand
+92,2024-03-27,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,602,Passenger car,1.3,1203,Though add board.,OC,New Zealand
+93,2024-08-22,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,853,Vans,1.3,1408,System religious bring option television often collection.,NA,United States
+94,2022-03-09,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,783,Vans,1.8,1209,They remember outside.,EU,Finland
+95,2024-12-05,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,573,Vans,1.8,7206,Up table describe imagine speak new.,OC,Australia
+96,2024-09-08,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,521,Vans,1.8,1392,Maybe meeting tell share late.,NA,Canada
+97,2024-08-31,Hybrid,Fuel Use and Vehicle Distance,Road,1,816,Passenger car,2.4,1369,Executive front thank.,EU,Switzerland
+98,2024-03-13,Diesel (100% mineral diesel),Custom fuel,Road,1,796,Passenger car,1.3,2899,Despite board smile consider.,NA,United States
+99,2024-07-18,Compressed Natural Gas (CNG),Fuel Use,Road,3,456,Passenger car,2.4,1074,My arrive.,NA,United States
+100,2024-05-04,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,982,Vans,1.3,1170,Door reason news community.,OC,Australia
+101,2024-12-03,Hybrid,Custom vehicle,Road,1,730,Vans,1.3,5447,Modern and.,OC,Australia
+102,2023-12-28,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,434,Passenger car,1.3,1568,Deep somebody as senior collection.,UK,United Kingdom
+103,2023-03-06,Hybrid,Fuel Use and Vehicle Distance,Road,3,654,Passenger car,2.4,2471,Above peace fact.,AS,Japan
+104,2023-03-08,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,866,Passenger car,2.0,6693,Behind direction work sell.,EU,Germany
+105,2022-10-10,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,614,Passenger car,1.3,1586,Institution window line itself significant fill.,EU,Sweden
+106,2023-03-21,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,858,Passenger car,1.3,6988,Across southern.,EU,Finland
+107,2024-07-13,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,480,Passenger car,3.0,4763,Cultural about.,OC,Australia
+108,2023-10-12,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,821,Vans,2.0,1704,Population improve film.,AS,India
+109,2022-08-04,Diesel (100% mineral diesel),Custom fuel,Road,3,739,Vans,1.3,2498,Force letter stop.,UK,United Kingdom
+110,2022-07-21,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,746,Passenger car,1.8,1249,Result later.,UK,United Kingdom
+111,2022-11-06,Hybrid,Custom vehicle,Road,3,570,Vans,2.4,1028,Throw action TV because this.,UK,United Kingdom
+112,2024-05-30,Compressed Natural Gas (CNG),Fuel Use,Road,3,876,Passenger car,1.3,1291,Always physical.,EU,France
+113,2022-07-18,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,438,Passenger car,3.0,1282,Either crime.,AS,China
+114,2023-09-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,818,Passenger car,2.4,5582,Appear son.,AS,China
+115,2023-08-05,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,488,Passenger car,2.4,1468,Face charge music.,AS,China
+116,2023-09-14,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,785,Passenger car,2.0,1111,Build go natural institution.,NA,Canada
+117,2024-09-04,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,899,Vans,1.3,1389,Good especially media tax.,OC,New Zealand
+118,2023-03-22,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,513,Passenger car,2.4,4307,Participant find smile network western.,UK,United Kingdom
+119,2024-10-25,Diesel (100% mineral diesel),Fuel Use,Road,1,782,Passenger car,3.0,1450,American.,UK,United Kingdom
+120,2024-01-12,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,841,Passenger car,1.3,4673,Force get heart.,NA,United States
+121,2022-11-08,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,751,Passenger car,3.0,2316,Involve new accept right financial.,OC,Australia
+122,2024-10-31,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,411,Vans,1.3,1336,Stay personal evening thank eye.,UK,United Kingdom
+123,2024-09-02,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,986,Passenger car,2.4,1707,Itself medical more fear.,UK,United Kingdom
+124,2024-10-12,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,486,Vans,1.8,1075,Theory technology ability.,EU,Sweden
+125,2023-07-10,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,878,Vans,1.8,4671,Difficult plan role continue.,AS,Japan
+126,2022-10-24,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,510,Vans,3.0,1567,Where social beat.,NA,Canada
+127,2023-03-21,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,705,Passenger car,2.4,1178,Hear always.,OC,New Zealand
+128,2024-08-05,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,552,Passenger car,2.0,1102,Least big main.,AS,India
+129,2022-05-21,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,416,Passenger car,2.0,1377,Source all hard.,OC,Australia
+130,2023-09-30,Hybrid,Fuel Use,Road,3,998,Vans,1.8,7289,Least front than.,UK,United Kingdom
+131,2023-07-14,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,413,Passenger car,3.0,5332,Put use.,UK,United Kingdom
+132,2024-05-30,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,604,Vans,2.4,4782,Next out turn.,UK,United Kingdom
+133,2024-11-20,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,652,Vans,1.8,1183,Ever important top brother.,EU,Poland
+134,2024-09-08,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,816,Vans,3.0,5220,Already evening.,EU,Germany
+135,2024-08-16,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,732,Passenger car,2.4,1471,Everyone many character enter occur.,NA,Canada
+136,2024-06-23,Compressed Natural Gas (CNG),Custom vehicle,Road,3,549,Vans,2.4,1544,Chair husband social.,OC,New Zealand
+137,2024-09-27,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,636,Passenger car,1.3,1431,Move sort perhaps maybe.,EU,Finland
+138,2022-11-16,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,438,Passenger car,3.0,1143,Information civil of boy.,OC,New Zealand
+139,2023-02-24,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,735,Passenger car,1.8,5368,Report war difficult involve concern.,AS,China
+140,2022-09-18,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,536,Vans,3.0,1609,Unit rate.,AS,India
+141,2023-02-17,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,654,Vans,2.0,2434,Think standard.,OC,Australia
+142,2023-03-09,Hybrid,Custom fuel,Road,3,560,Passenger car,2.4,1070,Serious fine.,AS,China
+143,2024-12-12,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,404,Vans,2.4,1358,Through test want.,EU,Italy
+144,2024-08-21,Compressed Natural Gas (CNG),Fuel Use,Road,1,718,Vans,2.0,1173,Knowledge produce interest.,AS,Japan
+145,2024-03-04,Compressed Natural Gas (CNG),Custom vehicle,Road,3,552,Vans,3.0,2539,Leader across.,NA,United States
+146,2023-09-04,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,925,Vans,2.0,1190,Go nor.,NA,Canada
+147,2022-05-14,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,957,Vans,2.4,1580,Action could listen not.,NA,United States
+148,2022-10-12,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,860,Passenger car,2.4,3952,Moment develop spring when.,UK,United Kingdom
+149,2022-06-30,Compressed Natural Gas (CNG),Custom fuel,Road,1,850,Passenger car,1.8,1295,Act two.,OC,Australia
+150,2024-03-08,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,758,Passenger car,3.0,5801,Center idea themselves.,NA,Canada
+151,2024-10-04,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,721,Vans,1.3,1291,Represent from do.,AS,India
+152,2022-01-03,Diesel (100% mineral diesel),Custom vehicle,Road,1,984,Passenger car,3.0,1166,Example music choose price.,OC,Australia
+153,2022-10-31,Diesel (100% mineral diesel),Fuel Use,Road,3,463,Passenger car,2.0,1197,Receive black reality black common.,NA,Canada
+154,2023-08-17,Diesel (100% mineral diesel),Fuel Use,Road,3,594,Passenger car,2.4,1644,Son race.,NA,United States
+155,2022-05-25,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,971,Vans,1.3,1439,Strong for five leg.,EU,Germany
+156,2024-07-10,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,443,Passenger car,2.0,1163,Most vote term stay.,AS,Japan
+157,2022-08-03,Hybrid,Fuel Use and Vehicle Distance,Road,1,864,Passenger car,2.0,2683,Dog center.,AS,Japan
+158,2022-08-19,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,848,Passenger car,3.0,1563,Follow method future minute.,UK,United Kingdom
+159,2023-06-21,Compressed Natural Gas (CNG),Fuel Use,Road,3,496,Passenger car,1.8,6604,Though inside table.,NA,Canada
+160,2022-08-18,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,950,Vans,2.4,2897,Though until final.,AS,India
+161,2022-04-22,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,563,Passenger car,2.0,1654,Trade network seek break wish what.,EU,Germany
+162,2024-12-10,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,478,Vans,1.3,1021,Institution save fall early.,EU,Norway
+163,2024-08-12,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,508,Passenger car,2.0,1389,Least night herself yard.,AS,China
+164,2024-04-27,Compressed Natural Gas (CNG),Fuel Use,Road,3,534,Vans,1.8,1372,Personal this.,EU,Denmark
+165,2023-09-09,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,534,Vans,1.8,4053,Less bit price.,NA,United States
+166,2024-08-22,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,976,Vans,2.4,1206,Language fill.,UK,United Kingdom
+167,2024-12-16,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,784,Vans,3.0,2807,Allow realize want.,NA,Canada
+168,2024-10-08,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,617,Vans,3.0,1432,Up close black take.,EU,Italy
+169,2023-03-21,Compressed Natural Gas (CNG),Custom fuel,Road,1,907,Passenger car,2.0,4414,Create himself.,UK,United Kingdom
+170,2022-03-11,Hybrid,Fuel Use and Vehicle Distance,Road,3,675,Passenger car,2.4,1021,Team red reality structure.,OC,New Zealand
+171,2024-11-07,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,414,Vans,2.4,5592,Wonder style level group care.,UK,United Kingdom
+172,2023-07-20,Compressed Natural Gas (CNG),Custom vehicle,Road,1,831,Vans,2.0,1496,Turn set wear go water.,EU,Denmark
+173,2023-06-17,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,836,Passenger car,3.0,1809,Street consider forward fear.,NA,Canada
+174,2024-08-29,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,680,Vans,3.0,1178,Mother common past one fill pretty.,AS,China
+175,2024-03-22,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,774,Passenger car,2.0,2256,Happen bank meet.,EU,Denmark
+176,2023-01-31,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,725,Vans,2.4,1118,Own best themselves.,AS,India
+177,2022-06-21,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,493,Vans,2.4,1212,Place finally take technology wide bill.,NA,Canada
+178,2023-12-21,Hybrid,Fuel Use and Vehicle Distance,Road,1,618,Vans,1.8,1367,Country herself fight.,AS,Japan
+179,2022-05-26,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,800,Vans,2.0,1021,Fund guy point.,AS,India
+180,2023-09-30,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,435,Vans,2.0,1405,Wish say smile guess culture.,EU,Spain
+181,2022-07-19,Hybrid,Custom vehicle,Road,1,857,Passenger car,2.0,1726,Republican full day particular.,AS,China
+182,2023-01-16,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,667,Vans,2.0,1707,Most than we media.,NA,United States
+183,2022-01-17,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,591,Vans,1.8,1725,Health admit wonder stop.,OC,New Zealand
+184,2022-08-02,Hybrid,Custom vehicle,Road,3,542,Passenger car,1.8,5487,Ago organization.,NA,Canada
+185,2023-06-19,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,539,Vans,2.4,1675,Down through you factor drug.,OC,Australia
+186,2024-03-27,Compressed Natural Gas (CNG),Custom vehicle,Road,1,515,Vans,2.4,3965,Hope deep low.,NA,United States
+187,2023-02-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,542,Passenger car,1.8,1733,Mind chance.,AS,China
+188,2023-10-08,Hybrid,Custom vehicle,Road,3,672,Vans,2.0,1189,Effect window.,EU,Switzerland
+189,2023-08-03,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,693,Passenger car,3.0,1341,Charge if despite offer cup turn.,UK,United Kingdom
+190,2022-05-27,Diesel (100% mineral diesel),Fuel Use,Road,1,540,Passenger car,2.0,1347,Suffer guess nice ten.,OC,New Zealand
+191,2022-08-11,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,511,Vans,1.3,3414,Time role.,OC,Australia
+192,2024-03-12,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,918,Passenger car,2.4,1456,Year blood.,OC,New Zealand
+193,2023-05-15,Diesel (100% mineral diesel),Custom fuel,Road,1,405,Vans,1.3,1411,Director real.,NA,Canada
+194,2024-07-04,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,597,Vans,2.0,1662,Check action concern.,EU,Norway
+195,2022-02-15,Diesel (100% mineral diesel),Custom vehicle,Road,3,417,Vans,2.0,1702,Parent commercial.,EU,France
+196,2023-02-21,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,718,Vans,2.4,1551,Current heart.,AS,India
+197,2024-10-16,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,409,Vans,2.4,1149,Couple tree air.,EU,France
+198,2022-03-01,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,522,Passenger car,2.0,1341,Phone true mission would Democrat.,OC,New Zealand
+199,2024-12-01,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,568,Passenger car,3.0,1225,Chance main.,EU,Belgium
+200,2022-03-16,Compressed Natural Gas (CNG),Custom fuel,Road,3,404,Passenger car,1.3,4808,Onto build clearly until something cause prove.,OC,New Zealand
+201,2023-02-27,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,928,Passenger car,1.8,1712,Bar my.,NA,Canada
+202,2024-01-26,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,565,Vans,1.8,1101,Most tonight event government.,UK,United Kingdom
+203,2022-01-14,Compressed Natural Gas (CNG),Custom vehicle,Road,1,529,Passenger car,1.3,1590,Baby strong he.,EU,France
+204,2024-02-02,Diesel (100% mineral diesel),Custom vehicle,Road,1,476,Passenger car,1.8,1253,Discuss both serve specific.,NA,United States
+205,2022-04-22,Hybrid,Fuel Use and Vehicle Distance,Road,3,611,Vans,1.8,2814,Government rule contain yet oil.,UK,United Kingdom
+206,2024-10-31,Diesel (100% mineral diesel),Fuel Use,Road,3,433,Passenger car,2.0,1394,Crime on.,UK,United Kingdom
+207,2022-07-21,Compressed Natural Gas (CNG),Fuel Use,Road,3,523,Vans,2.4,1504,Than young couple free.,OC,New Zealand
+208,2022-09-01,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,596,Passenger car,2.4,1251,Paper a.,OC,New Zealand
+209,2023-08-01,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,740,Vans,1.8,1489,Strong study admit final prove.,EU,Poland
+210,2024-09-25,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,977,Vans,1.8,1440,Seem six.,OC,Australia
+211,2022-02-16,Compressed Natural Gas (CNG),Custom vehicle,Road,3,938,Passenger car,3.0,3801,Address compare natural.,NA,United States
+212,2023-03-17,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,418,Vans,1.3,1525,Design party deal movie though bill.,OC,New Zealand
+213,2024-01-25,Compressed Natural Gas (CNG),Fuel Use,Road,1,620,Passenger car,2.4,1290,Sit marriage.,NA,United States
+214,2022-12-20,Hybrid,Custom vehicle,Road,1,684,Vans,1.8,1350,State long pretty who.,NA,Canada
+215,2024-03-11,Hybrid,Custom vehicle,Road,1,692,Vans,3.0,1710,Natural discuss.,AS,Japan
+216,2024-07-08,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,535,Passenger car,2.0,4519,Call lose.,UK,United Kingdom
+217,2024-07-14,Hybrid,Fuel Use,Road,1,464,Vans,1.3,1470,Moment answer go wife.,NA,United States
+218,2022-05-16,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,718,Vans,3.0,1133,Current bed son.,NA,Canada
+219,2023-12-08,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,753,Passenger car,1.8,1621,Add husband order than.,OC,Australia
+220,2023-03-31,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,577,Passenger car,1.8,1724,Line cultural coach.,AS,Japan
+221,2023-07-25,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,698,Vans,3.0,1632,Cultural way bag.,OC,New Zealand
+222,2023-04-02,Hybrid,Fuel Use and Vehicle Distance,Road,3,932,Vans,3.0,3041,Sister option determine more blue.,UK,United Kingdom
+223,2022-10-29,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,730,Passenger car,1.8,1364,Bar food western.,EU,Finland
+224,2023-03-28,Hybrid,Custom fuel,Road,1,614,Passenger car,2.0,1337,Station itself language.,OC,New Zealand
+225,2022-09-04,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,981,Passenger car,1.8,1162,Account thing.,EU,France
+226,2023-09-14,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,875,Passenger car,1.8,1226,Town black how wonder.,UK,United Kingdom
+227,2024-05-26,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,934,Vans,3.0,3511,Key view floor.,UK,United Kingdom
+228,2024-02-19,Hybrid,Fuel Use,Road,1,806,Passenger car,1.3,3719,Administration road doctor.,AS,Japan
+229,2022-11-01,Diesel (100% mineral diesel),Custom vehicle,Road,1,594,Vans,1.3,1212,Section hot those.,AS,India
+230,2024-10-27,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,401,Vans,2.4,1468,Increase few control ability.,EU,Poland
+231,2024-09-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,476,Passenger car,2.4,2224,Agreement free discuss really.,UK,United Kingdom
+232,2023-12-12,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,520,Vans,2.4,1025,Home official inside.,EU,Netherlands
+233,2024-10-19,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,577,Vans,2.0,1391,Film best page.,EU,Italy
+234,2022-09-30,Diesel (100% mineral diesel),Custom fuel,Road,1,463,Passenger car,1.8,6367,Land hospital scene.,AS,China
+235,2022-06-23,Diesel (100% mineral diesel),Fuel Use,Road,1,732,Vans,1.8,6500,Official ability sort first.,EU,Finland
+236,2024-03-24,Hybrid,Fuel Use and Vehicle Distance,Road,1,831,Vans,2.0,1085,Safe resource source data.,OC,Australia
+237,2022-02-13,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,617,Vans,1.3,1325,Its brother task.,OC,New Zealand
+238,2024-03-17,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,860,Vans,1.8,1008,Case state old.,OC,New Zealand
+239,2024-12-13,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,870,Vans,3.0,1041,Good social modern.,NA,United States
+240,2022-02-20,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,568,Passenger car,1.3,1054,Ask beyond western this.,EU,Netherlands
+241,2022-09-07,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,419,Vans,1.3,1169,Performance stand everything morning suffer.,AS,Japan
+242,2022-08-12,Hybrid,Fuel Use and Vehicle Distance,Road,3,683,Passenger car,2.0,4071,Send until bad score.,EU,Finland
+243,2022-10-23,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,506,Vans,2.0,1395,Poor recently.,NA,United States
+244,2024-05-07,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,853,Passenger car,2.0,1045,Open let.,NA,Canada
+245,2024-02-29,Hybrid,Custom fuel,Road,1,894,Passenger car,2.0,1348,Information strong will.,NA,United States
+246,2023-04-17,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,449,Vans,2.0,1099,Medical station.,UK,United Kingdom
+247,2024-12-08,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,844,Vans,1.8,1304,Raise pick sound threat.,AS,Japan
+248,2024-07-16,Hybrid,Fuel Use and Vehicle Distance,Road,3,849,Passenger car,3.0,3763,Drive with area discuss.,OC,Australia
+249,2023-10-31,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,608,Vans,3.0,1345,Why book speech.,UK,United Kingdom
+250,2023-04-30,Diesel (100% mineral diesel),Custom vehicle,Road,3,468,Vans,1.3,1526,Old ahead chair already edge.,NA,Canada
+251,2022-06-22,Compressed Natural Gas (CNG),Fuel Use,Road,3,420,Vans,2.4,1329,Card society site prepare.,UK,United Kingdom
+252,2023-06-05,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,745,Vans,3.0,1479,Degree.,AS,Japan
+253,2022-04-01,Hybrid,Fuel Use and Vehicle Distance,Road,1,434,Passenger car,1.3,7459,As since compare answer.,EU,Finland
+254,2023-12-24,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,781,Vans,2.4,1082,Scientist tell space he note.,OC,New Zealand
+255,2024-06-27,Compressed Natural Gas (CNG),Fuel Use,Road,1,538,Passenger car,2.4,1625,Someone a all.,OC,Australia
+256,2024-08-15,Compressed Natural Gas (CNG),Fuel Use,Road,1,951,Vans,1.3,5642,Improve if school technology.,NA,United States
+257,2023-11-02,Diesel (100% mineral diesel),Custom fuel,Road,1,576,Vans,2.4,1083,Only large last.,AS,Japan
+258,2022-03-11,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,561,Passenger car,1.3,5495,Half hundred wait anything above.,UK,United Kingdom
+259,2022-08-23,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,544,Passenger car,3.0,1458,News along professor career still.,NA,United States
+260,2022-10-27,Compressed Natural Gas (CNG),Fuel Use,Road,1,789,Vans,2.4,1548,Visit inside campaign hair.,UK,United Kingdom
+261,2023-12-08,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,452,Vans,3.0,1055,Accept cost fund girl standard.,EU,Switzerland
+262,2022-11-17,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,587,Vans,2.4,4605,Too early sea crime but apply.,NA,Canada
+263,2022-01-25,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,721,Passenger car,1.3,5948,Cause spring.,EU,Sweden
+264,2023-02-25,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,815,Passenger car,1.8,2849,Apply ahead environment.,AS,China
+265,2022-08-28,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,713,Passenger car,3.0,1694,Simply part president box central money.,OC,Australia
+266,2022-06-22,Compressed Natural Gas (CNG),Fuel Use,Road,1,572,Passenger car,1.3,1736,Account entire open result.,NA,Canada
+267,2022-05-03,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,548,Vans,2.4,3933,Wide view.,OC,Australia
+268,2022-11-23,Compressed Natural Gas (CNG),Custom vehicle,Road,1,450,Vans,2.4,5286,Impact happen.,NA,Canada
+269,2023-04-13,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,986,Passenger car,2.4,4209,Contain relationship child.,UK,United Kingdom
+270,2023-01-15,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,664,Vans,2.4,2826,Ago once case.,EU,Switzerland
+271,2022-05-02,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,835,Passenger car,2.0,1036,Enough do.,OC,New Zealand
+272,2024-11-04,Diesel (100% mineral diesel),Custom fuel,Road,3,591,Vans,2.0,1488,Read himself.,EU,Finland
+273,2023-04-05,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,575,Passenger car,3.0,1173,Job manage country condition deep.,OC,New Zealand
+274,2023-06-19,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,755,Vans,1.3,1192,Sell participant office fast.,NA,United States
+275,2022-12-19,Diesel (100% mineral diesel),Custom vehicle,Road,3,818,Vans,3.0,1098,Young some down.,AS,Japan
+276,2024-02-05,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,946,Vans,1.3,3664,Child dark set personal former.,UK,United Kingdom
+277,2022-11-20,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,447,Passenger car,2.0,1119,Task peace special mind up most.,OC,New Zealand
+278,2024-04-12,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,889,Vans,3.0,4378,Office share.,AS,India
+279,2024-07-02,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,614,Vans,2.0,6064,Last class.,OC,New Zealand
+280,2023-04-15,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,438,Passenger car,2.4,5896,Common understand behind.,NA,United States
+281,2023-07-03,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,519,Vans,2.4,1572,Their town responsibility.,EU,Italy
+282,2022-05-10,Diesel (100% mineral diesel),Fuel Use,Road,1,906,Vans,3.0,1639,Wall easy lose expect practice.,NA,Canada
+283,2023-02-21,Compressed Natural Gas (CNG),Custom fuel,Road,3,515,Vans,1.3,1267,Whole prepare manager.,OC,Australia
+284,2022-07-04,Hybrid,Custom vehicle,Road,3,565,Passenger car,2.0,1289,Team everyone here include rich.,NA,Canada
+285,2022-11-29,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,589,Vans,3.0,1457,Analysis begin east drive.,OC,Australia
+286,2023-06-02,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,533,Vans,2.4,1413,Modern beautiful treat customer drug.,UK,United Kingdom
+287,2023-11-25,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,888,Passenger car,2.4,1288,Wall another language share type.,OC,New Zealand
+288,2022-04-24,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,813,Passenger car,3.0,7005,Worry skin without.,OC,New Zealand
+289,2022-08-30,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,448,Vans,1.3,6239,Know meeting.,EU,Sweden
+290,2023-02-17,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,470,Vans,3.0,3220,How amount short meeting point writer.,EU,Finland
+291,2022-08-16,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,841,Vans,1.8,1055,Environmental international consumer standard scene.,AS,Japan
+292,2024-03-12,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,679,Passenger car,1.3,1483,Mean month hope believe.,NA,United States
+293,2023-11-20,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,626,Passenger car,2.4,6068,Recognize church wife.,NA,United States
+294,2022-07-30,Compressed Natural Gas (CNG),Fuel Use,Road,1,545,Passenger car,1.8,3486,Season spring step able Congress sort.,UK,United Kingdom
+295,2023-02-11,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,571,Vans,1.3,7458,Research red some city.,EU,Norway
+296,2023-12-05,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,806,Vans,3.0,1111,Dinner ahead that police face.,OC,Australia
+297,2022-11-18,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,489,Vans,2.4,5300,Site easy security care.,EU,Germany
+298,2024-01-12,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,884,Passenger car,1.3,1610,Least I yeah.,AS,India
+299,2024-03-18,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,584,Vans,2.4,3750,Fast popular.,UK,United Kingdom
+300,2024-12-18,Hybrid,Fuel Use,Road,1,773,Vans,2.0,1072,State see ball.,EU,Norway
+301,2022-11-03,Hybrid,Custom fuel,Road,1,443,Passenger car,1.8,1143,Simply stay now time.,UK,United Kingdom
+302,2022-10-10,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,558,Passenger car,2.0,3793,Ground second consumer more at.,NA,Canada
+303,2023-07-31,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,719,Vans,2.4,1357,While cup animal meet camera.,NA,United States
+304,2023-04-20,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,606,Vans,3.0,1295,Hour kind see require human course.,OC,Australia
+305,2022-04-16,Compressed Natural Gas (CNG),Custom fuel,Road,1,867,Passenger car,2.0,1216,Any piece but main.,NA,Canada
+306,2024-03-11,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,475,Vans,1.3,1092,Clearly commercial increase.,NA,Canada
+307,2024-01-27,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,619,Passenger car,2.0,1005,State someone themselves economy.,EU,Netherlands
+308,2023-07-12,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,689,Vans,1.8,1738,Case require somebody.,AS,China
+309,2024-12-25,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,411,Vans,1.8,7062,Pressure race.,OC,Australia
+310,2024-12-06,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,618,Vans,3.0,1234,May someone campaign.,NA,Canada
+311,2022-03-19,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,952,Vans,1.8,4751,Ability.,AS,Japan
+312,2024-03-24,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,967,Passenger car,2.4,1153,Form popular song tree.,EU,Sweden
+313,2024-05-10,Diesel (100% mineral diesel),Custom fuel,Road,3,848,Passenger car,1.3,1693,High first certainly world country.,AS,India
+314,2023-10-30,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,875,Vans,1.8,1368,See choice resource arrive risk.,UK,United Kingdom
+315,2022-05-05,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,744,Vans,3.0,1525,Same receive require candidate.,EU,Spain
+316,2023-04-11,Compressed Natural Gas (CNG),Fuel Use,Road,3,804,Vans,1.8,5798,First half.,OC,Australia
+317,2022-09-17,Diesel (100% mineral diesel),Fuel Use,Road,3,579,Passenger car,2.4,3037,Stage wait far.,AS,China
+318,2022-08-15,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,502,Vans,2.4,1287,Professor whose.,OC,New Zealand
+319,2022-02-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,524,Passenger car,3.0,6556,Before trouble six.,AS,China
+320,2024-11-30,Diesel (100% mineral diesel),Custom fuel,Road,1,899,Passenger car,2.4,1663,Hit result method.,AS,China
+321,2023-08-22,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,751,Passenger car,1.3,1128,Bad floor say early large.,NA,United States
+322,2022-10-17,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,510,Vans,2.0,1683,Sort manage you.,EU,Belgium
+323,2023-08-02,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,852,Vans,2.4,4264,Consumer special what.,OC,New Zealand
+324,2023-08-12,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,565,Passenger car,1.8,1617,Baby focus.,EU,Germany
+325,2024-02-22,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,892,Vans,2.0,1584,The item catch middle.,EU,Belgium
+326,2024-03-26,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,906,Vans,1.3,1173,Side several major major week role.,OC,Australia
+327,2024-09-18,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,454,Vans,2.0,1289,Office.,EU,France
+328,2024-06-21,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,425,Vans,3.0,6240,Call class sound other right speech.,UK,United Kingdom
+329,2023-03-27,Hybrid,Fuel Use and Vehicle Distance,Road,1,772,Vans,1.8,1653,Task his put.,OC,New Zealand
+330,2022-11-23,Diesel (100% mineral diesel),Custom vehicle,Road,1,704,Passenger car,1.8,1723,Girl brother she foreign culture help.,OC,Australia
+331,2023-09-21,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,746,Passenger car,2.0,1061,Customer skill tonight.,UK,United Kingdom
+332,2022-09-25,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,631,Passenger car,2.0,1088,Whatever point.,UK,United Kingdom
+333,2022-12-21,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,794,Vans,2.0,1076,Around suggest rest election play short.,NA,United States
+334,2024-12-19,Diesel (100% mineral diesel),Custom vehicle,Road,3,483,Passenger car,1.3,1620,Among wait firm home.,AS,Japan
+335,2022-09-03,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,671,Vans,3.0,1721,Gun protect save.,NA,United States
+336,2022-12-02,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,617,Vans,3.0,6496,Difference street.,NA,United States
+337,2022-08-30,Hybrid,Custom vehicle,Road,3,433,Passenger car,3.0,2738,Morning instead garden animal give.,AS,India
+338,2023-06-30,Compressed Natural Gas (CNG),Custom vehicle,Road,1,881,Vans,2.4,6276,Give nation audience other.,NA,United States
+339,2024-03-27,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,831,Passenger car,2.4,6116,A well.,UK,United Kingdom
+340,2024-08-23,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,613,Passenger car,1.8,1262,Great computer office.,EU,Denmark
+341,2023-09-02,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,625,Passenger car,1.8,1110,Movement interest important pull focus.,UK,United Kingdom
+342,2022-05-21,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,740,Passenger car,1.3,6294,Night should.,OC,Australia
+343,2024-11-18,Hybrid,Fuel Use,Road,3,813,Passenger car,1.3,1655,Cold together best road contain easy.,OC,New Zealand
+344,2022-12-02,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,514,Passenger car,2.0,2884,Free for person fund.,NA,United States
+345,2022-10-30,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,907,Vans,2.0,1236,Young Mrs necessary husband.,AS,India
+346,2022-01-27,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,899,Passenger car,2.4,1246,By own behavior door business.,AS,China
+347,2023-07-31,Compressed Natural Gas (CNG),Custom vehicle,Road,1,773,Vans,1.8,1339,Alone head economic simply share.,NA,Canada
+348,2024-08-10,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,426,Passenger car,2.4,6791,Shake cost myself.,UK,United Kingdom
+349,2024-12-06,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,509,Vans,2.4,1607,Wish maintain wife rule evening thousand.,AS,Japan
+350,2022-11-24,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,608,Passenger car,2.0,4790,Whose their second.,AS,China
+351,2024-01-10,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,650,Vans,2.4,7361,Investment break both.,OC,New Zealand
+352,2024-09-05,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,950,Vans,1.8,1086,Analysis at here.,UK,United Kingdom
+353,2023-02-02,Diesel (100% mineral diesel),Fuel Use,Road,3,588,Passenger car,3.0,1058,Teach college ago.,UK,United Kingdom
+354,2023-07-09,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,640,Passenger car,1.8,1164,Experience require interest cover subject.,OC,Australia
+355,2023-01-27,Compressed Natural Gas (CNG),Custom fuel,Road,1,858,Passenger car,1.3,1513,Article smile dinner try affect.,NA,United States
+356,2022-04-12,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,889,Vans,1.3,1362,Feel happen air drug.,AS,Japan
+357,2022-07-15,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,707,Vans,2.0,1127,From need development choose range.,OC,Australia
+358,2024-06-10,Hybrid,Fuel Use and Vehicle Distance,Road,3,749,Vans,1.3,1449,Opportunity power pay might.,OC,New Zealand
+359,2022-04-06,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,865,Vans,1.3,3472,Speak late moment dinner there.,EU,Germany
+360,2022-09-28,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,483,Vans,2.4,1918,Dark owner week a.,OC,Australia
+361,2023-02-17,Diesel (100% mineral diesel),Fuel Use,Road,1,735,Vans,2.0,1675,College firm watch.,UK,United Kingdom
+362,2024-12-09,Hybrid,Custom fuel,Road,1,954,Vans,3.0,1398,Too poor majority west whom likely.,OC,New Zealand
+363,2024-01-14,Hybrid,Fuel Use,Road,1,477,Vans,1.3,7494,Fund outside important.,EU,Switzerland
+364,2024-12-02,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,728,Passenger car,1.8,1339,Upon.,EU,Switzerland
+365,2023-05-09,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,801,Vans,2.4,5066,Majority reach reach.,AS,China
+366,2023-06-25,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,524,Passenger car,1.3,2501,Study case.,EU,Belgium
+367,2023-07-16,Hybrid,Fuel Use,Road,1,579,Passenger car,2.0,1115,Successful behind stay.,AS,China
+368,2022-09-21,Hybrid,Fuel Use,Road,3,596,Passenger car,1.8,1450,Space arm above.,NA,United States
+369,2022-06-20,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,869,Vans,3.0,1341,Compare where.,AS,China
+370,2022-06-08,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,480,Passenger car,2.0,1124,Environment country them half.,OC,New Zealand
+371,2022-04-30,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,407,Vans,2.0,1581,Soon role ball.,OC,Australia
+372,2023-02-14,Hybrid,Custom vehicle,Road,1,901,Passenger car,1.3,5724,Million accept service.,NA,United States
+373,2024-10-04,Diesel (100% mineral diesel),Custom fuel,Road,1,689,Passenger car,2.0,1571,Left party material out.,UK,United Kingdom
+374,2024-06-29,Diesel (100% mineral diesel),Fuel Use,Road,1,444,Passenger car,2.4,1457,Matter late decide kid environmental.,OC,New Zealand
+375,2024-06-08,Compressed Natural Gas (CNG),Fuel Use,Road,3,740,Vans,2.0,6719,Decade until training apply.,EU,Finland
+376,2023-02-12,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,886,Vans,2.0,1312,Cell animal kind effort international.,NA,Canada
+377,2024-01-18,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,834,Passenger car,3.0,1190,Wide best.,OC,Australia
+378,2024-11-29,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,932,Passenger car,2.0,2984,Seven think raise.,OC,Australia
+379,2022-03-11,Compressed Natural Gas (CNG),Fuel Use,Road,1,918,Passenger car,1.3,1599,Trial couple inside resource.,AS,China
+380,2024-02-21,Diesel (100% mineral diesel),Fuel Use,Road,1,483,Passenger car,1.3,1129,Pull accept special.,OC,New Zealand
+381,2022-09-12,Hybrid,Custom vehicle,Road,1,842,Passenger car,3.0,1278,Turn beautiful majority.,EU,Netherlands
+382,2023-02-17,Diesel (100% mineral diesel),Custom fuel,Road,1,737,Passenger car,1.8,5111,Toward teacher message something reality.,UK,United Kingdom
+383,2024-02-29,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,692,Passenger car,1.8,1204,As quality.,UK,United Kingdom
+384,2024-12-05,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,590,Vans,2.0,1485,Discuss fear where.,AS,India
+385,2024-05-13,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,454,Passenger car,1.8,1074,Guess so.,AS,China
+386,2022-10-26,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,948,Passenger car,2.4,1228,Fall figure with admit.,EU,Belgium
+387,2022-04-26,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,761,Vans,3.0,5206,Policy poor.,NA,United States
+388,2022-04-19,Compressed Natural Gas (CNG),Custom fuel,Road,1,662,Vans,2.4,4139,Race seem.,OC,New Zealand
+389,2024-01-05,Hybrid,Custom vehicle,Road,3,450,Vans,1.8,4998,At art although here everybody once.,EU,Switzerland
+390,2024-03-10,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,799,Passenger car,2.0,5453,And table appear.,NA,United States
+391,2023-10-02,Hybrid,Fuel Use and Vehicle Distance,Road,1,521,Vans,3.0,1568,Store nothing rock.,OC,New Zealand
+392,2023-03-05,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,540,Passenger car,2.4,1585,Popular term alone.,OC,Australia
+393,2023-06-11,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,832,Passenger car,1.8,1038,National commercial scientist guess should.,UK,United Kingdom
+394,2022-06-05,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,838,Vans,2.4,4271,Kid but culture stay lead green.,NA,Canada
+395,2022-12-06,Compressed Natural Gas (CNG),Custom fuel,Road,1,541,Passenger car,2.4,1161,Central firm result.,UK,United Kingdom
+396,2022-04-30,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,419,Vans,2.4,1665,Various only.,AS,China
+397,2023-05-21,Hybrid,Custom fuel,Road,3,662,Passenger car,1.3,4480,Sometimes wait police.,OC,New Zealand
+398,2022-06-09,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,625,Passenger car,2.4,1483,Reveal such public evening.,OC,New Zealand
+399,2024-04-19,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,776,Vans,2.0,1232,You less run happen.,NA,United States
+400,2024-07-21,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,845,Passenger car,1.8,1502,Subject summer wrong film will statement.,UK,United Kingdom
+401,2023-06-20,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,608,Passenger car,1.8,1264,Wear amount.,UK,United Kingdom
+402,2023-01-28,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,458,Passenger car,2.4,5838,Beat forget.,EU,Finland
+403,2024-05-03,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,982,Passenger car,2.0,1069,Still new mother business.,UK,United Kingdom
+404,2023-05-07,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,678,Vans,2.0,1732,That just.,AS,Japan
+405,2023-04-10,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,764,Passenger car,1.8,1023,Environment cause great.,UK,United Kingdom
+406,2022-07-20,Compressed Natural Gas (CNG),Custom vehicle,Road,3,785,Vans,3.0,1617,Fire organization.,NA,United States
+407,2023-08-31,Hybrid,Fuel Use and Vehicle Distance,Road,1,726,Vans,2.4,6873,Drive raise.,UK,United Kingdom
+408,2022-09-11,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,885,Passenger car,3.0,1572,Remain lay half.,NA,United States
+409,2023-01-22,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,539,Passenger car,3.0,3313,Cover girl work.,AS,Japan
+410,2023-10-18,Hybrid,Fuel Use,Road,1,538,Passenger car,2.0,1033,Of.,EU,Switzerland
+411,2024-11-06,Diesel (100% mineral diesel),Custom vehicle,Road,3,594,Passenger car,1.8,1437,Student most blood.,NA,United States
+412,2023-12-17,Diesel (100% mineral diesel),Fuel Use,Road,3,492,Vans,2.4,1408,Phone story energy shake card.,NA,United States
+413,2024-06-10,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,719,Passenger car,2.0,1198,Not member whole tell serious happy.,NA,Canada
+414,2023-01-10,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,506,Vans,1.8,1230,Impact task represent may.,OC,Australia
+415,2023-02-15,Diesel (100% mineral diesel),Fuel Use,Road,1,529,Passenger car,1.3,1642,Let truth set week enough.,NA,Canada
+416,2022-03-21,Hybrid,Custom vehicle,Road,3,926,Vans,1.3,1000,Shoulder performance today such enjoy who.,UK,United Kingdom
+417,2022-01-29,Hybrid,Fuel Use and Vehicle Distance,Road,1,714,Vans,2.0,1415,Argue white recent popular cause.,UK,United Kingdom
+418,2022-04-20,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,726,Vans,1.3,1787,Leave truth investment suggest.,NA,United States
+419,2024-07-01,Compressed Natural Gas (CNG),Custom fuel,Road,1,555,Vans,1.8,5231,When thing cause society strategy.,AS,India
+420,2022-09-05,Hybrid,Custom vehicle,Road,1,911,Passenger car,1.8,1433,Idea design style class.,EU,Denmark
+421,2024-04-24,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,732,Vans,2.0,1300,Need third.,NA,Canada
+422,2023-06-27,Compressed Natural Gas (CNG),Fuel Use,Road,1,422,Passenger car,1.8,1535,Anyone attack then worker.,NA,United States
+423,2023-03-04,Diesel (100% mineral diesel),Fuel Use,Road,3,803,Vans,2.0,1478,Well pressure indeed green early.,OC,New Zealand
+424,2024-01-13,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,919,Passenger car,3.0,1066,So everyone me.,OC,New Zealand
+425,2024-11-27,Diesel (100% mineral diesel),Custom vehicle,Road,3,577,Vans,2.4,5610,Off quickly she participant.,EU,Spain
+426,2023-11-03,Hybrid,Custom fuel,Road,1,485,Passenger car,2.0,3228,Chance five pressure environmental.,EU,Belgium
+427,2023-04-23,Compressed Natural Gas (CNG),Custom vehicle,Road,3,816,Vans,3.0,1603,Woman young growth spring.,EU,Belgium
+428,2023-07-31,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,640,Passenger car,3.0,5087,Deal.,OC,New Zealand
+429,2023-08-02,Diesel (100% mineral diesel),Custom vehicle,Road,1,601,Passenger car,2.0,3040,Color security four party.,AS,Japan
+430,2023-08-14,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,418,Passenger car,3.0,6319,Home same nor important.,NA,Canada
+431,2024-06-09,Diesel (100% mineral diesel),Fuel Use,Road,3,497,Vans,1.3,1340,Sort help your.,EU,Belgium
+432,2022-09-28,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,646,Vans,2.4,6811,Director few future effort fly.,OC,New Zealand
+433,2022-09-12,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,403,Vans,3.0,2748,Throw writer.,NA,United States
+434,2023-11-20,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,826,Vans,1.3,1359,Century human dream.,UK,United Kingdom
+435,2022-08-24,Compressed Natural Gas (CNG),Fuel Use,Road,1,747,Passenger car,3.0,3801,Heart six election conference matter.,OC,Australia
+436,2024-01-17,Compressed Natural Gas (CNG),Custom fuel,Road,3,637,Passenger car,3.0,1457,Production within task outside.,AS,Japan
+437,2024-10-20,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,684,Vans,2.4,1250,Heart break final.,UK,United Kingdom
+438,2022-01-25,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,817,Passenger car,1.8,6366,Us official head hour understand not.,AS,India
+439,2024-12-15,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,769,Passenger car,3.0,4588,Factor feeling need opportunity opportunity.,EU,Sweden
+440,2024-03-13,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,415,Vans,2.4,3661,New team else price.,OC,Australia
+441,2023-04-10,Hybrid,Custom vehicle,Road,3,629,Passenger car,1.3,1441,Again president minute message.,UK,United Kingdom
+442,2022-01-10,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,504,Passenger car,1.8,1703,Since any hear feeling.,EU,Netherlands
+443,2022-05-24,Diesel (100% mineral diesel),Custom fuel,Road,1,672,Passenger car,3.0,1172,Onto however fine.,AS,China
+444,2022-12-06,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,954,Vans,2.4,5261,Television these might offer.,UK,United Kingdom
+445,2022-02-12,Hybrid,Custom vehicle,Road,3,478,Passenger car,2.0,1012,My individual because market ability.,OC,Australia
+446,2024-12-16,Diesel (100% mineral diesel),Custom fuel,Road,1,454,Vans,1.8,1188,Available plant site bed probably.,EU,Italy
+447,2023-05-09,Compressed Natural Gas (CNG),Custom fuel,Road,3,490,Passenger car,2.0,1605,Machine leg rather much suffer adult.,UK,United Kingdom
+448,2023-02-11,Hybrid,Custom fuel,Road,1,781,Passenger car,2.4,5572,Speak build popular.,EU,Germany
+449,2023-02-27,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,439,Vans,1.8,5659,Thought really.,OC,New Zealand
+450,2022-11-03,Compressed Natural Gas (CNG),Custom fuel,Road,1,883,Vans,1.3,1683,Wife admit into rather join country.,OC,New Zealand
+451,2022-08-18,Hybrid,Custom vehicle,Road,3,578,Vans,1.8,1339,Throw hear respond.,AS,India
+452,2023-05-14,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,953,Passenger car,1.8,4210,Land friend everyone.,UK,United Kingdom
+453,2024-01-08,Hybrid,Fuel Use,Road,1,601,Vans,2.0,5263,Language important charge bad style.,OC,New Zealand
+454,2023-03-28,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,728,Passenger car,1.3,5199,All threat land.,UK,United Kingdom
+455,2023-05-17,Compressed Natural Gas (CNG),Custom fuel,Road,1,750,Vans,1.3,5713,Position research response.,OC,New Zealand
+456,2024-09-12,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,542,Passenger car,2.4,1312,End management these community kind.,OC,Australia
+457,2022-06-18,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,668,Vans,2.0,1386,Tax value happy despite phone dog.,EU,Spain
+458,2024-03-09,Compressed Natural Gas (CNG),Fuel Use,Road,1,470,Passenger car,2.4,1499,Campaign detail.,AS,China
+459,2023-04-23,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,626,Passenger car,2.0,1287,Growth fear.,OC,New Zealand
+460,2023-02-14,Hybrid,Fuel Use,Road,1,496,Passenger car,3.0,1105,Population expert gun treat.,UK,United Kingdom
+461,2022-06-02,Compressed Natural Gas (CNG),Custom fuel,Road,1,803,Vans,2.0,3962,Theory knowledge commercial.,AS,China
+462,2022-10-13,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,513,Vans,1.8,4962,Nature sport.,NA,Canada
+463,2024-03-16,Hybrid,Fuel Use,Road,3,705,Vans,3.0,1028,Especially behavior become red mother subject.,AS,India
+464,2022-06-14,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,763,Vans,2.0,1004,Prepare expect.,OC,New Zealand
+465,2023-08-22,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,624,Passenger car,1.3,3187,Cultural establish station.,UK,United Kingdom
+466,2022-11-14,Diesel (100% mineral diesel),Custom fuel,Road,1,646,Vans,3.0,1001,Admit become treat suggest.,OC,Australia
+467,2022-07-31,Compressed Natural Gas (CNG),Custom vehicle,Road,1,902,Passenger car,3.0,1312,Increase although fight.,AS,China
+468,2023-08-08,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,870,Vans,1.8,5027,Somebody eight where.,NA,Canada
+469,2024-11-02,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,861,Vans,1.8,7425,Together kitchen behind nature.,AS,India
+470,2024-10-02,Hybrid,Fuel Use and Vehicle Distance,Road,3,736,Vans,2.4,1443,They happy support.,AS,India
+471,2024-01-16,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,894,Vans,2.4,1634,Several.,NA,Canada
+472,2023-06-28,Diesel (100% mineral diesel),Custom vehicle,Road,3,488,Vans,3.0,1277,Send well.,EU,Belgium
+473,2023-10-08,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,569,Vans,2.0,1573,Statement throw month go sell note.,OC,Australia
+474,2023-04-30,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,692,Passenger car,1.3,1015,Front hold.,OC,Australia
+475,2024-06-14,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,703,Vans,2.0,1115,Sing school front.,OC,Australia
+476,2023-01-24,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,612,Passenger car,2.4,1065,Positive if something.,UK,United Kingdom
+477,2023-01-02,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,905,Passenger car,1.3,1113,Rise determine class media in.,UK,United Kingdom
+478,2022-07-27,Diesel (100% mineral diesel),Custom fuel,Road,3,706,Passenger car,2.4,1707,Cell once always voice less few.,OC,New Zealand
+479,2024-03-03,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,410,Vans,2.4,1718,Chance recent radio.,OC,Australia
+480,2024-11-19,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,935,Passenger car,2.0,5068,Evening catch.,OC,Australia
+481,2022-09-01,Hybrid,Fuel Use,Road,3,749,Vans,1.3,1174,Ok decision environmental management fast.,OC,New Zealand
+482,2022-06-02,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,536,Passenger car,1.8,6323,Ground care.,EU,Poland
+483,2024-10-23,Compressed Natural Gas (CNG),Custom fuel,Road,3,891,Passenger car,1.3,1361,Something safe throughout read protect.,AS,China
+484,2022-05-06,Compressed Natural Gas (CNG),Fuel Use,Road,1,830,Passenger car,1.8,1685,Model drive any ok.,EU,Spain
+485,2023-08-22,Hybrid,Custom vehicle,Road,3,471,Passenger car,1.8,6617,Cold sit administration.,UK,United Kingdom
+486,2022-03-25,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,640,Passenger car,2.0,1641,Which score.,AS,India
+487,2022-02-24,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,992,Passenger car,3.0,1325,Physical bag catch.,OC,Australia
+488,2022-10-12,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,899,Passenger car,2.4,3115,Scene without friend treat field.,UK,United Kingdom
+489,2022-03-18,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,458,Vans,3.0,1559,Everybody offer.,UK,United Kingdom
+490,2022-06-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,934,Passenger car,1.8,1686,Seek fish final.,UK,United Kingdom
+491,2022-06-03,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,871,Passenger car,3.0,1562,First carry.,NA,United States
+492,2022-02-22,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,590,Passenger car,2.0,1300,Head national decision.,EU,Denmark
+493,2023-09-28,Diesel (100% mineral diesel),Custom vehicle,Road,3,853,Passenger car,1.8,1188,Month ahead information.,UK,United Kingdom
+494,2024-08-30,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,712,Passenger car,2.4,1184,Ball television window beautiful.,EU,Belgium
+495,2022-12-16,Diesel (100% mineral diesel),Custom fuel,Road,3,979,Vans,2.4,1132,Similar create door.,EU,Denmark
+496,2022-07-31,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,964,Passenger car,1.3,1143,Thank less similar.,UK,United Kingdom
+497,2024-03-20,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,681,Vans,2.4,1290,All short off environment.,UK,United Kingdom
+498,2022-09-11,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,783,Vans,1.8,1040,Make service do home.,OC,New Zealand
+499,2023-09-29,Hybrid,Custom vehicle,Road,1,616,Passenger car,3.0,1577,Address customer.,UK,United Kingdom
+500,2024-11-29,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,526,Passenger car,2.4,1188,Join.,UK,United Kingdom
+501,2022-07-23,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,647,Passenger car,1.3,7359,Significant maybe standard western stock.,EU,Germany
+502,2022-01-01,Diesel (100% mineral diesel),Custom fuel,Road,3,720,Vans,1.8,1098,Order direction approach feel.,NA,Canada
+503,2022-05-17,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,418,Vans,2.0,5341,Authority low.,UK,United Kingdom
+504,2023-04-20,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,619,Vans,3.0,1331,Each letter.,NA,United States
+505,2022-04-27,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,962,Passenger car,3.0,3292,Nearly push maintain.,OC,New Zealand
+506,2023-08-22,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,650,Passenger car,2.4,1159,Two many thousand.,EU,Denmark
+507,2024-11-14,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,666,Vans,1.3,1116,Environmental south community.,OC,Australia
+508,2023-11-01,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,508,Passenger car,1.3,2704,Score history agency.,NA,Canada
+509,2022-08-31,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,974,Vans,2.4,1303,Require other exist author kind.,UK,United Kingdom
+510,2024-09-07,Hybrid,Fuel Use,Road,1,459,Passenger car,1.3,1437,Summer anyone now.,EU,Finland
+511,2023-12-07,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,460,Vans,2.0,1278,Education business.,AS,China
+512,2023-07-01,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,852,Passenger car,1.8,1268,Ability gas cultural.,AS,Japan
+513,2024-06-28,Diesel (100% mineral diesel),Fuel Use,Road,1,636,Vans,2.4,5532,Gun whole interesting.,OC,Australia
+514,2022-08-06,Compressed Natural Gas (CNG),Custom vehicle,Road,3,864,Passenger car,3.0,1340,Left way.,OC,New Zealand
+515,2023-02-07,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,662,Passenger car,2.0,1478,Nor career discuss care.,AS,China
+516,2024-05-12,Diesel (100% mineral diesel),Fuel Use,Road,1,776,Vans,2.4,1508,Attack coach win.,EU,Norway
+517,2023-06-05,Compressed Natural Gas (CNG),Custom fuel,Road,3,495,Passenger car,1.8,1364,Difficult school concern become.,EU,Sweden
+518,2024-07-19,Hybrid,Custom fuel,Road,3,736,Passenger car,2.4,1725,Poor item else.,UK,United Kingdom
+519,2023-02-23,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,654,Passenger car,1.3,4987,Develop establish door person society.,EU,France
+520,2023-05-31,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,941,Passenger car,2.0,4366,Say during last.,EU,Netherlands
+521,2022-04-06,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,512,Passenger car,1.8,1069,Cell edge for.,UK,United Kingdom
+522,2024-12-22,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,658,Vans,1.8,1589,Region daughter.,NA,United States
+523,2022-08-25,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,770,Passenger car,2.0,1417,Positive top everyone drive.,NA,United States
+524,2022-09-21,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,432,Vans,1.3,2943,Require wonder election.,NA,Canada
+525,2024-09-02,Hybrid,Custom fuel,Road,1,587,Passenger car,2.0,1073,Represent thousand.,UK,United Kingdom
+526,2022-10-01,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,422,Vans,2.4,1617,Personal those understand.,EU,Switzerland
+527,2022-05-06,Compressed Natural Gas (CNG),Fuel Use,Road,3,911,Passenger car,1.3,1016,Traditional important start.,OC,Australia
+528,2024-08-21,Hybrid,Custom fuel,Road,1,586,Vans,2.0,1017,Suggest good character try.,EU,France
+529,2024-07-02,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,1000,Vans,1.8,1454,Exactly fund culture water early.,EU,France
+530,2022-11-01,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,936,Vans,2.0,1025,Own home.,UK,United Kingdom
+531,2022-05-10,Diesel (100% mineral diesel),Fuel Use,Road,1,877,Vans,1.3,6427,Crime station meeting alone.,OC,Australia
+532,2023-06-23,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,789,Passenger car,1.3,3110,Center phone seat drug method show.,NA,United States
+533,2022-03-01,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,989,Vans,1.8,1504,Knowledge accept.,EU,Spain
+534,2024-02-16,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,863,Vans,2.0,1275,Meet young call check among.,UK,United Kingdom
+535,2023-03-01,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,894,Vans,1.3,6260,Leg ready season hard young.,NA,Canada
+536,2022-05-07,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,672,Vans,3.0,1690,Gun morning loss.,NA,United States
+537,2022-09-26,Hybrid,Fuel Use and Vehicle Distance,Road,1,857,Vans,1.8,1436,Air now.,OC,New Zealand
+538,2023-01-02,Compressed Natural Gas (CNG),Custom vehicle,Road,3,866,Vans,3.0,1117,Nor wall field.,NA,United States
+539,2022-09-08,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,700,Passenger car,1.8,5971,Raise.,AS,Japan
+540,2024-05-11,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,608,Vans,2.0,1169,Worker skill certain one old.,EU,Italy
+541,2022-06-18,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,772,Passenger car,2.4,1007,Condition though back organization.,OC,New Zealand
+542,2022-12-24,Compressed Natural Gas (CNG),Custom vehicle,Road,1,583,Vans,3.0,2551,Girl into fact important.,AS,Japan
+543,2023-01-29,Compressed Natural Gas (CNG),Fuel Use,Road,1,844,Vans,1.8,1772,Strategy happy organization would.,OC,Australia
+544,2022-04-11,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,636,Passenger car,1.3,1251,Threat just exist language training form.,OC,New Zealand
+545,2024-04-06,Compressed Natural Gas (CNG),Custom fuel,Road,3,899,Passenger car,1.8,1398,Well already wonder.,UK,United Kingdom
+546,2023-11-01,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,467,Passenger car,2.0,4499,Perhaps both.,EU,Norway
+547,2024-05-03,Hybrid,Fuel Use,Road,1,773,Passenger car,2.4,1737,Mother garden.,UK,United Kingdom
+548,2023-08-01,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,1,613,Passenger car,3.0,1043,Bank soldier those eye environmental.,OC,Australia
+549,2022-10-03,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,735,Vans,1.3,1733,Bar image discussion land fight nice.,AS,India
+550,2022-01-18,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,672,Vans,2.4,1278,Evening any available whom travel.,EU,Switzerland
+551,2022-06-15,Diesel (100% mineral diesel),Custom vehicle,Road,1,451,Vans,1.8,1592,Imagine level Mrs amount.,AS,China
+552,2023-01-20,Compressed Natural Gas (CNG),Custom vehicle,Road,3,872,Vans,1.8,5438,Will quickly.,OC,Australia
+553,2022-08-13,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,912,Passenger car,1.3,2190,Difference can coach.,UK,United Kingdom
+554,2022-06-06,Diesel (100% mineral diesel),Custom fuel,Road,3,674,Vans,1.3,1581,Meeting contain southern news.,UK,United Kingdom
+555,2023-06-18,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,805,Passenger car,1.8,1038,Course bank trial.,UK,United Kingdom
+556,2022-07-26,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,869,Vans,2.0,1519,Four.,OC,New Zealand
+557,2023-01-01,Compressed Natural Gas (CNG),Custom vehicle,Road,1,512,Passenger car,3.0,1572,Degree people time.,UK,United Kingdom
+558,2024-06-20,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,777,Vans,1.3,2177,Theory TV figure.,OC,Australia
+559,2023-05-15,Diesel (100% mineral diesel),Custom fuel,Road,3,504,Vans,1.3,7132,Whole trip.,UK,United Kingdom
+560,2023-01-07,Compressed Natural Gas (CNG),Custom vehicle,Road,1,984,Passenger car,2.0,1600,Let hundred.,NA,Canada
+561,2023-04-01,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,558,Vans,3.0,7452,Beautiful executive bag same.,UK,United Kingdom
+562,2023-01-28,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,593,Vans,1.3,1064,My moment.,NA,Canada
+563,2022-05-23,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,473,Vans,3.0,1252,Compare clear him purpose interesting win.,AS,China
+564,2023-07-09,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,520,Passenger car,2.4,1205,Back chance media.,AS,India
+565,2023-12-26,Diesel (100% mineral diesel),Custom vehicle,Road,3,721,Vans,1.3,2996,Beyond conference successful.,OC,Australia
+566,2022-06-18,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,980,Vans,2.4,2266,Mr Mrs market approach build.,EU,Finland
+567,2024-10-28,Compressed Natural Gas (CNG),Fuel Use,Road,1,969,Passenger car,2.0,2814,Majority fast worker.,NA,Canada
+568,2023-09-08,Compressed Natural Gas (CNG),Custom vehicle,Road,3,481,Vans,1.8,1086,Actually my.,EU,France
+569,2022-07-19,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,953,Passenger car,2.0,4453,Benefit perform.,NA,Canada
+570,2024-10-27,Compressed Natural Gas (CNG),Fuel Use,Road,3,683,Vans,1.8,1020,Chair skill example.,EU,Spain
+571,2022-11-20,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,417,Vans,3.0,5282,Smile positive.,NA,United States
+572,2023-04-26,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,904,Passenger car,2.0,1062,Adult head account move book fine.,EU,Belgium
+573,2024-11-09,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,862,Vans,3.0,1257,Little economy purpose.,AS,India
+574,2023-03-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,864,Passenger car,3.0,6157,Member through explain scene coach.,OC,Australia
+575,2022-05-25,Compressed Natural Gas (CNG),Fuel Use,Road,1,570,Vans,1.3,1152,Argue idea.,OC,New Zealand
+576,2023-08-16,Diesel (100% mineral diesel),Fuel Use,Road,3,650,Passenger car,1.8,1677,Know open itself several suddenly.,NA,United States
+577,2024-05-13,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,778,Passenger car,1.3,1012,Apply country direction by.,AS,China
+578,2024-01-13,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,770,Passenger car,3.0,1367,Local start.,EU,Netherlands
+579,2022-11-10,Diesel (100% mineral diesel),Custom fuel,Road,1,646,Passenger car,2.0,1444,Pull describe but despite represent door.,UK,United Kingdom
+580,2023-05-18,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,400,Vans,1.3,1709,Discover their.,AS,Japan
+581,2022-04-08,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,635,Vans,1.8,1288,Gun despite believe.,AS,India
+582,2024-06-29,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,806,Passenger car,1.3,1942,Hard food plant.,UK,United Kingdom
+583,2023-01-26,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,591,Passenger car,2.4,1660,Section everybody week.,NA,Canada
+584,2024-06-07,Compressed Natural Gas (CNG),Custom vehicle,Road,1,553,Passenger car,3.0,1076,Spend someone itself.,NA,Canada
+585,2023-11-22,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,804,Vans,2.4,1115,Magazine look.,EU,Belgium
+586,2023-03-18,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,544,Passenger car,2.0,4567,Page join well appear.,NA,Canada
+587,2024-12-19,Hybrid,Fuel Use,Road,3,853,Vans,2.4,1274,Job sign indeed.,AS,India
+588,2024-08-09,Hybrid,Fuel Use and Vehicle Distance,Road,1,959,Vans,2.4,3186,Here line open none.,EU,Netherlands
+589,2022-07-12,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,995,Vans,2.4,1497,Sea relate large.,AS,Japan
+590,2022-10-24,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,457,Vans,1.3,1523,Behind interesting yet.,OC,Australia
+591,2022-05-08,Hybrid,Fuel Use and Vehicle Distance,Road,1,616,Vans,2.0,1600,Laugh full goal these mother summer available.,EU,Denmark
+592,2023-02-17,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,589,Passenger car,2.0,1230,Media most realize radio.,UK,United Kingdom
+593,2023-05-07,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,780,Passenger car,1.3,7252,Effort.,NA,Canada
+594,2023-08-28,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,417,Vans,3.0,1433,Every pick.,EU,Italy
+595,2023-07-10,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,531,Vans,2.0,1513,Street smile notice pretty president can number.,EU,Belgium
+596,2023-12-17,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,547,Passenger car,1.3,1719,Management ready town religious.,NA,Canada
+597,2024-02-20,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,420,Passenger car,2.4,1717,Send security.,AS,China
+598,2023-08-14,Hybrid,Fuel Use and Vehicle Distance,Road,3,896,Passenger car,1.3,1343,Bill always.,AS,China
+599,2024-11-14,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,955,Vans,3.0,1080,Between if.,AS,Japan
+600,2023-03-10,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,607,Vans,1.8,1134,Pretty role without.,UK,United Kingdom
+601,2023-05-30,Diesel (100% mineral diesel),Fuel Use,Road,1,875,Vans,2.4,1048,Operation ahead rule.,AS,China
+602,2023-03-13,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,662,Passenger car,2.0,1269,Manage fall wife go discussion result.,NA,Canada
+603,2023-03-21,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,898,Vans,2.0,1637,Include work treatment.,NA,United States
+604,2022-07-02,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,967,Passenger car,1.8,1018,Camera.,UK,United Kingdom
+605,2024-10-02,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,547,Passenger car,2.4,6311,Authority pretty discover.,AS,China
+606,2024-06-26,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,474,Vans,1.8,1087,Describe series law.,UK,United Kingdom
+607,2024-12-27,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,696,Vans,2.0,1044,Change decision water military.,AS,China
+608,2023-12-08,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,582,Passenger car,1.8,1540,Else into decide mission.,OC,New Zealand
+609,2022-12-02,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,435,Vans,3.0,2779,Inside rather wear program in base.,OC,New Zealand
+610,2022-06-24,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,682,Vans,1.8,3348,Simple light question.,UK,United Kingdom
+611,2023-07-04,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,420,Passenger car,1.3,7399,Use subject.,EU,France
+612,2023-07-08,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,865,Vans,2.4,7177,Fact write card.,UK,United Kingdom
+613,2024-04-16,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,509,Vans,3.0,2486,Least brother lot.,OC,New Zealand
+614,2023-10-29,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,960,Passenger car,1.3,1936,Factor minute once east.,NA,Canada
+615,2024-06-14,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,918,Passenger car,2.0,1260,Radio go red it.,NA,Canada
+616,2023-07-06,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,617,Passenger car,1.8,5859,Lose everything.,NA,United States
+617,2024-04-22,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,789,Passenger car,3.0,1641,Stay side imagine.,AS,India
+618,2023-07-05,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,906,Passenger car,1.3,1313,Camera enjoy best ahead buy.,NA,Canada
+619,2024-10-10,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,400,Vans,1.3,1328,Tell edge leader wrong.,EU,Italy
+620,2022-07-19,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,512,Vans,3.0,1159,Serious kind single.,EU,Denmark
+621,2024-01-06,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,950,Vans,2.4,1330,The value trial.,AS,China
+622,2024-12-07,Hybrid,Fuel Use,Road,1,765,Vans,3.0,1335,Rich position everybody.,NA,Canada
+623,2023-12-16,Compressed Natural Gas (CNG),Custom fuel,Road,3,826,Passenger car,1.3,4345,Finish must compare score military.,OC,New Zealand
+624,2023-11-04,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,984,Passenger car,1.3,1116,Thank machine.,AS,China
+625,2022-10-09,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,690,Passenger car,3.0,4947,Feeling say hundred floor.,EU,Italy
+626,2023-01-30,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,864,Passenger car,1.8,1019,Court fly food.,EU,France
+627,2023-01-14,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,869,Vans,2.4,1249,Either life.,EU,France
+628,2023-09-26,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,720,Passenger car,3.0,1038,Old lawyer.,UK,United Kingdom
+629,2022-06-24,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,527,Passenger car,2.4,1682,Help despite body.,UK,United Kingdom
+630,2024-08-26,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,883,Vans,3.0,1225,Decision interest.,NA,Canada
+631,2024-03-24,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,738,Vans,1.3,4979,Simple feeling country test level decade.,NA,United States
+632,2022-09-27,Diesel (100% mineral diesel),Fuel Use,Road,3,977,Passenger car,1.8,4585,Meet space animal.,OC,New Zealand
+633,2024-11-13,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,474,Vans,3.0,1283,General age.,AS,India
+634,2022-10-10,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,861,Passenger car,1.3,1008,With.,EU,Netherlands
+635,2024-09-13,Diesel (100% mineral diesel),Custom fuel,Road,3,851,Passenger car,3.0,1085,As us receive suddenly.,AS,Japan
+636,2022-01-02,Diesel (100% mineral diesel),Custom fuel,Road,3,501,Passenger car,1.8,1156,Enough could store buy.,EU,Spain
+637,2024-06-14,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,990,Passenger car,3.0,5906,Less like recently enter.,OC,New Zealand
+638,2024-10-31,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,932,Passenger car,2.0,1524,Away professional under.,NA,Canada
+639,2024-01-01,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,780,Passenger car,2.4,1264,High piece tell.,AS,Japan
+640,2022-06-12,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,471,Passenger car,1.3,1664,Speak wait finally.,EU,Switzerland
+641,2023-07-01,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,471,Vans,2.0,6085,Represent somebody night kid nice.,NA,Canada
+642,2024-06-02,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,824,Vans,2.0,1416,Market hundred company cell himself.,UK,United Kingdom
+643,2023-07-17,Diesel (100% mineral diesel),Custom fuel,Road,3,476,Passenger car,2.4,3119,Road social why.,AS,Japan
+644,2023-11-14,Hybrid,Fuel Use,Road,3,622,Passenger car,2.0,3391,Fund mother in.,UK,United Kingdom
+645,2023-10-13,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,953,Vans,2.0,1294,Argue total common.,NA,United States
+646,2022-04-28,Diesel (100% mineral diesel),Fuel Use,Road,1,911,Passenger car,2.0,1378,Everybody energy the later.,NA,Canada
+647,2024-07-11,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,578,Vans,3.0,1123,Continue specific tell.,NA,Canada
+648,2023-08-10,Hybrid,Custom fuel,Road,1,497,Passenger car,2.0,1664,Least past direction result our wait according.,UK,United Kingdom
+649,2022-04-24,Compressed Natural Gas (CNG),Custom fuel,Road,3,843,Passenger car,1.3,1060,Information food son.,AS,China
+650,2024-01-18,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,725,Passenger car,2.4,1612,Eye trip shake man.,UK,United Kingdom
+651,2024-04-19,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,552,Vans,2.0,7049,Across our truth.,UK,United Kingdom
+652,2023-05-16,Compressed Natural Gas (CNG),Fuel Use,Road,1,971,Passenger car,2.4,4910,Lot raise.,NA,United States
+653,2023-08-31,Compressed Natural Gas (CNG),Fuel Use,Road,3,709,Vans,2.0,1036,Game decision father hand.,EU,France
+654,2024-09-19,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,882,Vans,2.0,1096,Ahead fly.,AS,China
+655,2024-09-15,Diesel (100% mineral diesel),Custom vehicle,Road,3,545,Passenger car,2.0,1012,Mission learn believe series your.,EU,Switzerland
+656,2024-02-03,Diesel (100% mineral diesel),Fuel Use,Road,3,929,Passenger car,1.8,1299,Door although five usually how.,OC,Australia
+657,2023-10-04,Diesel (100% mineral diesel),Custom fuel,Road,1,715,Vans,2.4,3149,Between effort sell.,AS,India
+658,2023-07-15,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,566,Vans,1.8,1726,Himself measure affect find decision despite.,NA,United States
+659,2022-08-25,Hybrid,Custom vehicle,Road,3,471,Passenger car,1.3,2779,Could special position cold pass.,EU,Sweden
+660,2022-08-10,Hybrid,Fuel Use,Road,3,780,Vans,2.0,1197,Age during me indicate.,EU,Norway
+661,2022-07-09,Hybrid,Custom fuel,Road,3,972,Vans,1.3,1451,Summer after group.,NA,Canada
+662,2023-10-05,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,751,Vans,3.0,1210,Everyone allow modern produce.,AS,India
+663,2023-01-06,Compressed Natural Gas (CNG),Fuel Use,Road,3,638,Vans,1.3,1104,Send issue go.,UK,United Kingdom
+664,2024-10-25,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,514,Passenger car,3.0,1032,Soon receive.,AS,China
+665,2023-02-05,Hybrid,Custom vehicle,Road,3,870,Passenger car,2.4,4070,Seven there rest.,EU,Finland
+666,2023-02-01,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,988,Passenger car,2.0,4127,Customer drop minute.,NA,Canada
+667,2022-01-14,Hybrid,Custom fuel,Road,3,448,Passenger car,1.3,1023,Help among.,NA,Canada
+668,2023-03-10,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,941,Passenger car,1.8,1307,Finally look name within.,AS,China
+669,2022-07-27,Hybrid,Custom fuel,Road,3,953,Passenger car,2.4,1179,Important movie ground source.,OC,Australia
+670,2024-09-11,Compressed Natural Gas (CNG),Custom fuel,Road,1,705,Passenger car,1.8,3066,Bar know physical child.,AS,India
+671,2023-10-19,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,593,Vans,2.4,1489,Explain before white face.,AS,China
+672,2024-10-06,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,430,Vans,1.3,1238,Talk deep.,UK,United Kingdom
+673,2022-07-04,Compressed Natural Gas (CNG),Custom vehicle,Road,3,554,Vans,1.8,1485,Attention must go.,AS,Japan
+674,2024-08-09,Hybrid,Custom vehicle,Road,1,810,Vans,1.3,1323,Possible join gun drive north foreign.,AS,India
+675,2023-01-02,Diesel (100% mineral diesel),Fuel Use,Road,3,722,Vans,3.0,1623,Cover Mr scientist this what.,EU,Netherlands
+676,2024-07-18,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,931,Vans,1.8,1151,Energy section his take hospital tonight.,AS,India
+677,2024-05-27,Compressed Natural Gas (CNG),Fuel Use,Road,1,435,Vans,1.3,1532,Fact between analysis.,AS,China
+678,2024-02-03,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,625,Vans,3.0,1151,Early figure.,AS,Japan
+679,2024-04-24,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,602,Vans,2.4,3528,Gun bit public.,NA,Canada
+680,2024-04-12,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,401,Passenger car,3.0,1421,Food level.,OC,Australia
+681,2023-06-16,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,848,Passenger car,1.3,1966,Culture husband hair myself.,NA,Canada
+682,2023-06-17,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,525,Vans,1.3,1303,Age as.,NA,United States
+683,2023-06-23,Hybrid,Fuel Use and Vehicle Distance,Road,3,513,Vans,2.4,1003,Anyone page.,AS,Japan
+684,2024-05-17,Compressed Natural Gas (CNG),Fuel Use,Road,1,984,Passenger car,1.3,1684,Yard eat offer.,EU,Poland
+685,2022-11-25,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,756,Vans,2.0,1528,Write save eye believe.,EU,Sweden
+686,2024-01-15,Compressed Natural Gas (CNG),Fuel Use,Road,1,678,Vans,1.8,1583,Recent call month small.,UK,United Kingdom
+687,2024-09-30,Compressed Natural Gas (CNG),Custom fuel,Road,1,822,Passenger car,1.8,1416,Which offer music type person.,EU,Poland
+688,2022-10-14,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,537,Vans,3.0,1046,Avoid husband citizen event evidence crime.,NA,Canada
+689,2022-05-15,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,509,Passenger car,2.0,6731,Skin action.,OC,Australia
+690,2022-08-19,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,406,Passenger car,2.0,1310,When paper.,NA,Canada
+691,2024-04-29,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,985,Vans,1.8,1661,Project fact.,EU,Denmark
+692,2022-08-10,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,628,Passenger car,1.3,2817,Tough respond American.,OC,Australia
+693,2022-09-30,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,633,Passenger car,3.0,1050,Body tonight whom.,UK,United Kingdom
+694,2024-03-05,Hybrid,Fuel Use,Road,3,555,Passenger car,1.8,1326,Ground night response.,UK,United Kingdom
+695,2022-04-30,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,845,Vans,2.0,1391,Let bad pretty.,OC,Australia
+696,2022-08-23,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,425,Vans,1.8,1354,Political east bad.,EU,Switzerland
+697,2024-03-11,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,636,Passenger car,1.8,3158,Movement decision read focus.,EU,Switzerland
+698,2022-12-04,Diesel (100% mineral diesel),Custom fuel,Road,3,849,Vans,3.0,5117,Many politics address either.,AS,China
+699,2023-08-17,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,645,Vans,3.0,1190,Gas consumer during material customer.,NA,United States
+700,2022-03-28,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,412,Vans,2.0,1470,Treatment least strategy.,UK,United Kingdom
+701,2024-05-26,Compressed Natural Gas (CNG),Custom vehicle,Road,1,914,Passenger car,1.3,3750,Including face several.,UK,United Kingdom
+702,2024-08-13,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,584,Passenger car,2.0,3781,Government public sound size bring senior.,AS,China
+703,2022-06-24,Hybrid,Fuel Use,Road,3,780,Vans,2.4,1144,Wide soldier he wonder.,NA,Canada
+704,2024-07-30,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,988,Passenger car,1.3,1207,Bring win condition behavior perform recently.,AS,India
+705,2022-03-23,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,649,Passenger car,2.4,1687,Lawyer line cultural.,AS,India
+706,2023-06-03,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,540,Passenger car,2.0,6874,Owner run.,EU,Belgium
+707,2024-07-12,Compressed Natural Gas (CNG),Custom fuel,Road,3,859,Vans,2.0,1447,Piece bring since throw show.,AS,China
+708,2022-02-05,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,532,Vans,1.3,1405,Challenge leader head yourself between national.,EU,France
+709,2024-05-05,Hybrid,Fuel Use,Road,1,741,Passenger car,1.8,1515,Hundred voice.,UK,United Kingdom
+710,2023-03-21,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,755,Passenger car,3.0,1120,Most administration.,NA,United States
+711,2023-03-07,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,451,Vans,2.4,1149,Take heart book news.,OC,New Zealand
+712,2024-06-17,Hybrid,Fuel Use,Road,1,680,Vans,3.0,1154,Weight serious north.,EU,Finland
+713,2022-12-20,Compressed Natural Gas (CNG),Custom vehicle,Road,3,570,Vans,2.0,5107,Wear fear stay.,AS,India
+714,2023-10-03,Hybrid,Custom fuel,Road,1,942,Vans,1.3,4419,Weight shake.,OC,Australia
+715,2024-11-29,Hybrid,Fuel Use and Vehicle Distance,Road,1,694,Passenger car,1.8,6695,Participant easy sell thus teacher.,EU,Sweden
+716,2023-11-20,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,502,Passenger car,2.0,1323,Nor behind stay design.,UK,United Kingdom
+717,2024-08-06,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,421,Vans,1.8,1408,Between main top over.,UK,United Kingdom
+718,2022-08-24,Diesel (100% mineral diesel),Custom fuel,Road,3,928,Vans,3.0,1574,Along increase defense.,EU,Belgium
+719,2022-09-24,Hybrid,Custom fuel,Road,3,917,Vans,2.4,5129,Mission factor.,UK,United Kingdom
+720,2022-10-08,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,742,Passenger car,1.3,1649,Determine effect.,UK,United Kingdom
+721,2022-01-06,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,486,Vans,2.0,5494,Win nice huge.,NA,Canada
+722,2024-03-21,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,890,Vans,1.8,1129,Thought rest ask.,UK,United Kingdom
+723,2024-02-29,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,443,Vans,3.0,1400,Really result control.,OC,Australia
+724,2022-11-18,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,430,Passenger car,3.0,1602,Order social out southern already let.,NA,Canada
+725,2023-07-03,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,459,Passenger car,1.3,5937,Up financial number fish goal.,UK,United Kingdom
+726,2024-10-10,Compressed Natural Gas (CNG),Fuel Use,Road,3,706,Passenger car,1.3,1708,Commercial many change business.,UK,United Kingdom
+727,2023-04-02,Diesel (100% mineral diesel),Fuel Use,Road,3,751,Vans,2.4,1321,Director heavy sort.,EU,Germany
+728,2023-05-27,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,812,Vans,2.4,1661,Win economy them.,AS,China
+729,2022-02-22,Hybrid,Fuel Use and Vehicle Distance,Road,1,775,Passenger car,2.0,1210,Information public meet town law their.,EU,Denmark
+730,2024-02-23,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,995,Vans,1.3,6949,Interest network baby run meeting.,EU,Denmark
+731,2023-11-01,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,469,Passenger car,2.0,1408,Of boy item.,NA,United States
+732,2024-10-28,Diesel (100% mineral diesel),Custom fuel,Road,3,498,Passenger car,1.8,1580,Likely simply.,UK,United Kingdom
+733,2024-12-16,Diesel (100% mineral diesel),Fuel Use,Road,1,818,Vans,1.3,1193,Without data ever generation beyond treatment.,NA,United States
+734,2022-11-15,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,509,Passenger car,1.3,2340,Allow amount so rule media.,NA,United States
+735,2022-06-11,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,758,Passenger car,3.0,1402,Appear.,NA,Canada
+736,2023-01-14,Diesel (100% mineral diesel),Custom fuel,Road,3,950,Passenger car,1.8,2129,Green simple baby join voice.,NA,United States
+737,2024-04-30,Diesel (100% mineral diesel),Custom fuel,Road,3,632,Passenger car,1.3,4291,So structure party why.,EU,Norway
+738,2024-06-23,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,625,Vans,3.0,1070,Challenge likely up.,NA,United States
+739,2024-01-04,Diesel (100% mineral diesel),Custom vehicle,Road,3,806,Vans,1.3,2364,Visit though share.,EU,Germany
+740,2022-10-05,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,880,Vans,3.0,6761,Sound body single.,UK,United Kingdom
+741,2024-12-12,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,567,Vans,1.3,1259,Page.,OC,Australia
+742,2022-09-24,Hybrid,Fuel Use and Vehicle Distance,Road,1,800,Vans,2.0,1193,Vote sense throughout identify.,OC,New Zealand
+743,2022-09-04,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,506,Passenger car,2.4,2695,Serve heart mouth.,EU,Finland
+744,2024-04-26,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,631,Vans,2.4,1188,From able daughter still.,NA,Canada
+745,2022-11-17,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,670,Vans,2.0,1094,Whatever everyone drive ever while office.,AS,India
+746,2022-10-30,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,788,Vans,2.4,1295,I natural decision research discover whole.,OC,New Zealand
+747,2024-02-16,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,610,Vans,1.8,7414,Great someone might forward.,AS,Japan
+748,2022-02-07,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,874,Vans,1.3,5501,Role suffer color base.,OC,New Zealand
+749,2022-08-28,Hybrid,Fuel Use,Road,3,676,Vans,2.4,5548,Tax.,EU,Poland
+750,2024-05-04,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,1000,Vans,1.3,5640,Do assume community.,OC,New Zealand
+751,2022-12-18,Hybrid,Custom vehicle,Road,3,464,Passenger car,3.0,1460,Compare number.,OC,New Zealand
+752,2022-02-15,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,503,Passenger car,1.3,1419,Human soldier product.,OC,Australia
+753,2023-05-01,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,883,Vans,1.3,1451,Wife condition.,UK,United Kingdom
+754,2024-12-08,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,943,Vans,3.0,1740,Drive force room save maybe.,OC,New Zealand
+755,2023-09-04,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,911,Passenger car,1.3,6257,Similar yard market maintain mother.,EU,Switzerland
+756,2023-07-24,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,730,Vans,2.4,1659,There daughter growth brother.,UK,United Kingdom
+757,2023-05-18,Compressed Natural Gas (CNG),Custom vehicle,Road,3,867,Vans,1.8,1254,Sort on this.,AS,China
+758,2023-09-28,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,648,Passenger car,2.4,2949,Amount language sea live.,UK,United Kingdom
+759,2023-09-30,Hybrid,Custom vehicle,Road,1,650,Vans,2.4,1928,Something understand sure forget economic.,NA,Canada
+760,2023-06-23,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,843,Vans,3.0,1213,Add year.,OC,Australia
+761,2022-07-10,Diesel (100% mineral diesel),Fuel Use,Road,3,590,Vans,3.0,6522,Clear attorney everyone.,OC,Australia
+762,2023-08-07,Diesel (100% mineral diesel),Fuel Use,Road,3,743,Passenger car,1.8,1148,Woman on year region discussion note.,NA,United States
+763,2022-04-12,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,892,Vans,2.0,1242,Forward possible deep.,UK,United Kingdom
+764,2022-08-14,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,840,Passenger car,3.0,1113,Main someone bill.,NA,Canada
+765,2022-11-13,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,720,Vans,2.0,1303,Hot court main bit.,EU,Netherlands
+766,2024-02-06,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,923,Passenger car,2.4,1569,Cause brother information difficult have.,AS,Japan
+767,2024-11-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,726,Passenger car,1.8,1140,Culture main early whatever yes public.,OC,Australia
+768,2022-10-06,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,404,Passenger car,2.0,1265,Design wall series.,EU,Sweden
+769,2023-09-09,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,987,Passenger car,1.8,1543,Much activity century realize clear.,AS,India
+770,2023-04-26,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,912,Vans,1.8,1260,Pull job.,UK,United Kingdom
+771,2024-01-22,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,970,Vans,3.0,1056,Pass rule rate.,AS,India
+772,2022-10-11,Hybrid,Custom fuel,Road,3,608,Passenger car,1.3,1555,Bad born system move view.,NA,Canada
+773,2023-09-30,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,795,Passenger car,3.0,4312,Always image man.,OC,Australia
+774,2024-07-25,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,570,Passenger car,3.0,5662,Positive natural government quality.,UK,United Kingdom
+775,2024-07-28,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,966,Passenger car,2.4,1542,Research month fund.,EU,Denmark
+776,2024-07-06,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,683,Passenger car,1.8,5602,Main street condition.,EU,Finland
+777,2023-07-08,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,731,Vans,1.3,1332,Local music summer.,AS,India
+778,2023-11-19,Hybrid,Fuel Use and Vehicle Distance,Road,1,826,Passenger car,2.4,3313,Better him program.,NA,Canada
+779,2024-01-04,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,683,Passenger car,2.0,1180,Lose dream senior sell.,NA,United States
+780,2022-12-18,Diesel (100% mineral diesel),Custom fuel,Road,1,536,Passenger car,3.0,1555,Floor while join thus this.,UK,United Kingdom
+781,2023-07-11,Compressed Natural Gas (CNG),Fuel Use,Road,3,672,Vans,1.3,1551,Lead PM.,AS,Japan
+782,2022-11-11,Hybrid,Fuel Use,Road,3,497,Passenger car,1.8,1460,Above group surface.,AS,Japan
+783,2023-11-02,Hybrid,Fuel Use and Vehicle Distance,Road,1,653,Passenger car,1.8,1051,Threat.,UK,United Kingdom
+784,2022-04-19,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,648,Vans,2.4,2665,General move film left.,AS,India
+785,2022-04-09,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,949,Vans,1.8,5261,Six identify.,OC,Australia
+786,2023-12-19,Compressed Natural Gas (CNG),Custom fuel,Road,3,430,Passenger car,1.3,1334,Evidence already company because particularly.,NA,United States
+787,2024-06-09,Diesel (100% mineral diesel),Custom fuel,Road,3,423,Passenger car,2.4,3127,Themselves Mr out rate.,EU,Finland
+788,2022-11-02,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,556,Vans,2.4,1344,Pick hundred suffer place brother.,UK,United Kingdom
+789,2022-02-13,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,415,Vans,3.0,6781,Seem operation pressure town.,EU,Poland
+790,2022-10-15,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,897,Passenger car,1.8,2645,Professional before improve little.,UK,United Kingdom
+791,2023-01-15,Compressed Natural Gas (CNG),Custom vehicle,Road,1,785,Passenger car,1.8,1137,Challenge everyone ball month.,AS,China
+792,2023-03-14,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,970,Vans,2.4,1132,Draw cup fly.,NA,United States
+793,2023-06-21,Diesel (100% mineral diesel),Fuel Use,Road,1,989,Vans,2.0,1814,May money.,OC,New Zealand
+794,2024-03-13,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,519,Vans,1.3,1110,Decade.,NA,Canada
+795,2024-03-12,Compressed Natural Gas (CNG),Custom vehicle,Road,3,909,Passenger car,1.3,4768,Expert laugh protect wear.,AS,Japan
+796,2022-05-28,Compressed Natural Gas (CNG),Custom vehicle,Road,3,511,Passenger car,1.3,4748,Responsibility back agency north return sing.,OC,New Zealand
+797,2022-02-24,Hybrid,Custom vehicle,Road,3,416,Passenger car,3.0,1192,Price through.,UK,United Kingdom
+798,2024-06-23,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,715,Passenger car,1.3,1368,Major share sister.,UK,United Kingdom
+799,2023-07-18,Compressed Natural Gas (CNG),Custom fuel,Road,1,513,Vans,1.8,2062,Box spend.,OC,Australia
+800,2023-06-24,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,887,Vans,1.3,2730,Quite run fact poor.,AS,Japan
+801,2022-01-05,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,684,Passenger car,1.8,1279,Business kid debate.,AS,China
+802,2023-05-08,Hybrid,Custom fuel,Road,3,418,Vans,3.0,7390,None physical source table charge shoulder.,OC,Australia
+803,2022-02-03,Diesel (100% mineral diesel),Custom fuel,Road,1,729,Vans,3.0,1162,Find show figure.,EU,Italy
+804,2023-04-13,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,794,Passenger car,3.0,1517,Surface operation nature listen.,AS,China
+805,2023-03-18,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,516,Vans,2.0,1254,Together audience.,EU,Belgium
+806,2024-02-15,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,534,Vans,1.8,1012,Power series candidate guy certainly.,OC,New Zealand
+807,2024-10-19,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,699,Passenger car,2.0,3615,May popular project sometimes seek.,OC,New Zealand
+808,2022-05-24,Diesel (100% mineral diesel),Custom vehicle,Road,3,780,Vans,2.0,5181,Ok election talk recent eye note.,EU,Belgium
+809,2022-10-24,Diesel (100% mineral diesel),Custom fuel,Road,3,453,Passenger car,2.0,1637,Race morning two.,NA,United States
+810,2024-07-30,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,900,Vans,2.0,6803,By put.,AS,India
+811,2023-03-08,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,929,Vans,1.8,5014,When community.,OC,New Zealand
+812,2023-08-19,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,947,Vans,2.0,1399,Create range.,EU,Denmark
+813,2022-10-20,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,467,Passenger car,2.0,5831,Force task baby money.,NA,Canada
+814,2024-07-28,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,623,Passenger car,3.0,1264,Difficult.,UK,United Kingdom
+815,2023-09-11,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,663,Passenger car,2.4,1439,Past space training.,OC,New Zealand
+816,2023-01-08,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,579,Vans,3.0,1146,Career election collection.,AS,India
+817,2024-01-28,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,906,Vans,1.3,1013,Financial game listen rule.,AS,Japan
+818,2022-11-14,Hybrid,Fuel Use and Vehicle Distance,Road,1,444,Passenger car,3.0,1233,Much back country although.,UK,United Kingdom
+819,2024-09-27,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,875,Passenger car,1.8,1437,Sing high pull.,UK,United Kingdom
+820,2023-02-28,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,669,Passenger car,1.8,1122,Station range thus.,AS,India
+821,2023-08-08,Diesel (100% mineral diesel),Custom fuel,Road,3,755,Passenger car,3.0,1031,Become office significant.,AS,Japan
+822,2022-08-12,Hybrid,Custom vehicle,Road,3,411,Passenger car,3.0,1284,Table data perhaps nice reality small.,UK,United Kingdom
+823,2023-12-28,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,837,Passenger car,2.0,1358,Bank somebody establish direction.,AS,India
+824,2022-11-06,Diesel (100% mineral diesel),Fuel Use,Road,3,505,Vans,2.4,1416,Hotel world.,AS,India
+825,2023-09-27,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,827,Vans,1.3,4681,Hand maybe look may.,EU,Denmark
+826,2024-12-22,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,511,Vans,1.3,4014,Key baby gun.,EU,Denmark
+827,2024-01-10,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,931,Vans,1.3,1585,When too region number color.,AS,Japan
+828,2022-11-10,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,421,Vans,1.3,1155,Game town imagine item.,AS,China
+829,2022-12-21,Diesel (100% mineral diesel),Custom fuel,Road,1,990,Vans,1.3,1264,Television garden.,UK,United Kingdom
+830,2022-11-05,Compressed Natural Gas (CNG),Fuel Use,Road,1,825,Vans,3.0,4795,Picture add paper.,OC,New Zealand
+831,2022-07-08,Hybrid,Fuel Use,Road,1,758,Vans,2.4,1119,Buy suddenly water candidate.,OC,Australia
+832,2022-10-29,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,742,Vans,1.8,1025,Once value.,EU,Norway
+833,2022-11-14,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,497,Vans,2.0,1458,Forward apply officer certain.,EU,Denmark
+834,2023-01-26,Hybrid,Custom vehicle,Road,1,943,Passenger car,1.3,1702,Open police get degree.,EU,Denmark
+835,2022-10-26,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,779,Passenger car,2.0,4292,Growth contain.,OC,New Zealand
+836,2024-02-12,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,3,796,Passenger car,1.3,1513,While official.,EU,Spain
+837,2023-02-16,Hybrid,Fuel Use and Vehicle Distance,Road,3,560,Passenger car,2.4,1193,Road lose white.,NA,Canada
+838,2022-11-24,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,626,Passenger car,2.0,1311,Issue again.,AS,Japan
+839,2022-07-31,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,936,Vans,3.0,1522,Else save.,NA,United States
+840,2022-01-24,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,589,Vans,2.4,1619,Her in why campaign.,UK,United Kingdom
+841,2022-12-19,Hybrid,Custom fuel,Road,3,427,Vans,3.0,7366,Gas level majority friend fact budget.,OC,New Zealand
+842,2024-10-25,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,607,Passenger car,1.8,1365,Through easy first sister occur.,EU,Finland
+843,2024-01-11,Hybrid,Fuel Use and Vehicle Distance,Road,1,875,Passenger car,1.8,2285,Power tonight.,UK,United Kingdom
+844,2023-06-16,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,808,Vans,2.0,1614,Factor us western five increase.,UK,United Kingdom
+845,2023-11-10,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,962,Passenger car,2.0,1233,Law sister.,UK,United Kingdom
+846,2023-10-11,Diesel (100% mineral diesel),Fuel Use,Road,3,569,Vans,1.3,1497,Maintain analysis no.,UK,United Kingdom
+847,2022-04-05,Hybrid,Custom fuel,Road,1,708,Vans,3.0,1114,Rich other.,UK,United Kingdom
+848,2022-08-18,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,660,Vans,2.0,1419,Culture let customer yeah.,NA,United States
+849,2023-08-09,Hybrid,Fuel Use,Road,3,785,Passenger car,1.8,2467,Here trial whole trade.,AS,Japan
+850,2024-01-06,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,852,Vans,1.8,1521,Report range southern politics.,UK,United Kingdom
+851,2024-04-10,Hybrid,Fuel Use and Vehicle Distance,Road,3,770,Passenger car,1.3,1626,Level impact religious.,UK,United Kingdom
+852,2022-06-02,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,832,Passenger car,2.4,1066,We create.,AS,Japan
+853,2023-03-31,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,909,Vans,3.0,1597,Put method.,UK,United Kingdom
+854,2022-12-31,Hybrid,Custom vehicle,Road,3,422,Vans,2.4,2892,Line certain oil nation.,EU,France
+855,2023-04-19,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,542,Passenger car,2.0,1025,Style nearly.,AS,China
+856,2023-03-24,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,405,Vans,1.3,1187,Free cold hotel.,NA,United States
+857,2024-03-21,Hybrid,Fuel Use,Road,1,588,Vans,1.8,1353,Property west huge pattern.,OC,Australia
+858,2022-06-25,Hybrid,Fuel Use and Vehicle Distance,Road,1,630,Passenger car,2.0,4689,Discuss play.,UK,United Kingdom
+859,2022-06-26,Hybrid,Custom fuel,Road,3,446,Vans,3.0,1280,Responsibility job yourself either whose.,EU,Belgium
+860,2023-10-21,Diesel (100% mineral diesel),Custom fuel,Road,3,950,Vans,1.8,1234,Machine dinner individual west.,NA,Canada
+861,2022-06-04,Compressed Natural Gas (CNG),Fuel Use,Road,1,542,Passenger car,2.0,3405,Go start others capital theory.,AS,China
+862,2022-02-16,Diesel (100% mineral diesel),Fuel Use,Road,3,428,Passenger car,2.0,2437,Ahead want door.,UK,United Kingdom
+863,2024-08-30,Compressed Natural Gas (CNG),Custom fuel,Road,3,647,Passenger car,1.8,1300,Stage adult full name.,AS,Japan
+864,2023-06-18,Hybrid,Fuel Use and Vehicle Distance,Road,1,478,Passenger car,1.3,1719,Girl wide rate manage.,OC,New Zealand
+865,2024-03-31,Diesel (100% mineral diesel),Custom vehicle,Road,3,569,Vans,1.8,1052,Reality eye stay wife.,EU,Belgium
+866,2023-11-08,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,953,Vans,1.3,1571,Book range audience discussion.,AS,Japan
+867,2022-05-30,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,826,Vans,2.0,5825,Thousand may fund ahead.,OC,Australia
+868,2023-06-19,Liquefied Petrolium Gases (LPG),Fuel Use,Road,1,710,Passenger car,1.3,1673,Wonder its public laugh.,NA,Canada
+869,2023-11-04,Diesel (100% mineral diesel),Fuel Use,Road,3,450,Vans,3.0,1195,Medical worry class federal.,OC,Australia
+870,2024-11-08,Compressed Natural Gas (CNG),Custom vehicle,Road,1,846,Vans,3.0,1173,Chair nation month prove way.,UK,United Kingdom
+871,2024-01-06,Diesel (100% mineral diesel),Custom vehicle,Road,3,794,Passenger car,2.0,1022,Range and police.,NA,Canada
+872,2023-06-04,Diesel (100% mineral diesel),Fuel Use,Road,1,935,Passenger car,3.0,1951,Anyone choice.,UK,United Kingdom
+873,2023-07-10,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,851,Passenger car,1.8,1153,Happen part meeting.,EU,Finland
+874,2024-08-23,Compressed Natural Gas (CNG),Custom fuel,Road,1,704,Vans,2.0,1317,By fine upon carry.,OC,Australia
+875,2022-08-17,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,599,Passenger car,2.0,1175,Least west major.,UK,United Kingdom
+876,2024-02-22,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,630,Passenger car,1.3,1347,Hotel race free.,EU,Belgium
+877,2023-08-16,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,1,573,Passenger car,2.0,3042,She degree.,OC,New Zealand
+878,2023-11-07,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,440,Passenger car,2.0,6130,System admit.,EU,Poland
+879,2024-01-26,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,1,684,Passenger car,2.4,1342,Possible bag song.,AS,China
+880,2023-04-03,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,920,Vans,2.4,1702,Feel notice rich memory.,AS,Japan
+881,2024-09-08,Diesel (100% mineral diesel),Custom vehicle,Road,1,658,Passenger car,2.4,6621,Understand network.,NA,United States
+882,2022-09-13,Compressed Natural Gas (CNG),Custom fuel,Road,1,757,Vans,2.4,1216,Suffer blue.,AS,India
+883,2022-10-11,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,871,Vans,2.0,1175,What memory always develop staff certainly.,OC,New Zealand
+884,2024-09-30,Diesel (100% mineral diesel),Custom vehicle,Road,3,542,Passenger car,2.4,2864,Forward method fire store special anyone.,NA,Canada
+885,2024-01-14,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,412,Vans,1.3,1026,Resource various store turn movement.,AS,India
+886,2023-06-24,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,464,Passenger car,3.0,1249,Hope later make.,NA,United States
+887,2022-07-06,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,3,862,Vans,1.3,5218,Up according admit focus.,OC,Australia
+888,2023-07-24,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,740,Vans,2.4,6932,Food then sure activity dinner central.,OC,Australia
+889,2024-04-19,Diesel (100% mineral diesel),Custom fuel,Road,1,936,Vans,2.4,1074,Dog position.,AS,Japan
+890,2024-04-05,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,477,Vans,1.8,5108,High career with.,AS,India
+891,2024-12-01,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,942,Passenger car,2.0,1429,Under push right.,AS,India
+892,2024-10-16,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,735,Vans,2.4,1263,Area cut fall.,EU,Germany
+893,2024-09-21,Hybrid,Fuel Use and Vehicle Distance,Road,1,414,Passenger car,2.0,3457,Section health common tonight good.,UK,United Kingdom
+894,2022-01-02,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,438,Vans,1.3,1231,There above.,EU,Italy
+895,2023-05-07,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,594,Vans,2.4,1451,Tend smile.,EU,Switzerland
+896,2024-06-03,Hybrid,Custom fuel,Road,1,453,Passenger car,2.0,5983,Most station same.,NA,Canada
+897,2023-09-07,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,729,Passenger car,3.0,1145,Chance couple boy sure.,UK,United Kingdom
+898,2023-11-22,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,716,Passenger car,2.4,1432,Left star house.,NA,United States
+899,2023-11-24,Diesel (100% mineral diesel),Fuel Use,Road,3,744,Vans,2.0,6675,Much read before.,NA,Canada
+900,2022-10-20,Hybrid,Vehicle Distance (e.g. Road Transport),Road,1,510,Passenger car,1.8,1222,Choose body.,UK,United Kingdom
+901,2024-11-15,Hybrid,Custom fuel,Road,1,531,Passenger car,3.0,1058,New listen which strategy.,EU,Germany
+902,2023-12-22,Compressed Natural Gas (CNG),Fuel Use,Road,1,663,Passenger car,1.3,1513,How money fast get room floor catch.,AS,China
+903,2023-08-10,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,775,Passenger car,2.0,1828,Be order.,UK,United Kingdom
+904,2022-10-12,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,1,501,Vans,2.0,1382,Can time little national this home.,UK,United Kingdom
+905,2024-05-30,Compressed Natural Gas (CNG),Fuel Use,Road,3,896,Passenger car,1.8,4415,Become movie government.,EU,France
+906,2023-02-09,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,411,Vans,1.8,1090,Church begin ground nice remain student fill.,AS,China
+907,2024-04-13,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,702,Vans,3.0,1618,Character industry important speak.,UK,United Kingdom
+908,2022-08-04,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,901,Passenger car,1.8,1711,Environment significant shoulder.,EU,Germany
+909,2022-01-18,Compressed Natural Gas (CNG),Fuel Use,Road,1,834,Vans,2.0,1023,Money assume.,UK,United Kingdom
+910,2024-10-20,Hybrid,Custom vehicle,Road,1,780,Vans,3.0,1224,Skin property from begin bar.,NA,Canada
+911,2022-04-16,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,564,Vans,3.0,6184,Again population type hand.,NA,Canada
+912,2024-04-09,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,689,Passenger car,1.3,1054,Part change agent time computer.,OC,New Zealand
+913,2022-04-01,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,968,Vans,1.8,1301,Government expect.,NA,United States
+914,2022-04-16,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,663,Vans,1.3,3436,Stop recognize community region.,OC,New Zealand
+915,2022-12-02,Hybrid,Fuel Use,Road,3,533,Vans,3.0,5743,Election measure.,UK,United Kingdom
+916,2023-08-05,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,546,Passenger car,1.3,3191,Stand rest hour development old.,NA,Canada
+917,2024-02-04,Diesel (100% mineral diesel),Custom fuel,Road,1,813,Vans,2.4,1170,Learn opportunity.,UK,United Kingdom
+918,2022-03-10,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,3,621,Vans,3.0,1480,Official live especially thank do.,AS,Japan
+919,2024-06-11,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,3,606,Passenger car,1.8,1264,Seem professional figure man past follow.,NA,United States
+920,2024-08-03,Hybrid,Fuel Use and Vehicle Distance,Road,3,477,Vans,2.0,6158,Speech change officer store attack cover.,NA,Canada
+921,2024-10-03,Hybrid,Fuel Use,Road,3,430,Passenger car,2.4,1286,Time seem movie.,UK,United Kingdom
+922,2023-01-26,Compressed Natural Gas (CNG),Custom vehicle,Road,1,581,Passenger car,2.0,1084,Better green.,UK,United Kingdom
+923,2024-11-22,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,439,Vans,1.3,3183,Body community field evidence notice.,AS,Japan
+924,2022-08-22,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,830,Vans,1.8,6358,Character most specific.,AS,Japan
+925,2024-05-27,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,3,687,Vans,2.4,1424,Coach pick per energy.,AS,China
+926,2024-10-24,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,3,502,Passenger car,1.8,1055,Else official ask.,OC,Australia
+927,2024-01-12,Diesel (100% mineral diesel),Custom fuel,Road,3,861,Vans,1.8,1125,Step seek situation drive.,OC,Australia
+928,2024-09-08,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,732,Vans,1.3,1287,Authority mouth interview.,AS,China
+929,2023-11-01,Diesel (100% mineral diesel),Fuel Use,Road,1,829,Passenger car,3.0,4078,Trial rock painting reach most.,OC,Australia
+930,2024-09-14,Diesel (100% mineral diesel),Fuel Use,Road,1,803,Passenger car,2.0,1145,Say nothing.,EU,Poland
+931,2023-10-11,Diesel (100% mineral diesel),Fuel Use,Road,1,982,Passenger car,2.4,6936,Among three start.,EU,Italy
+932,2024-12-17,Compressed Natural Gas (CNG),Custom vehicle,Road,1,730,Vans,2.4,1309,Value eye right find.,AS,Japan
+933,2024-01-24,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,494,Vans,2.4,1152,Appear this enjoy for.,UK,United Kingdom
+934,2023-03-25,Diesel (100% mineral diesel),Custom vehicle,Road,1,775,Passenger car,2.4,2117,Thousand audience give data north.,OC,Australia
+935,2023-01-13,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,682,Vans,1.3,1076,Anyone TV.,NA,United States
+936,2023-09-29,Hybrid,Custom vehicle,Road,3,567,Passenger car,1.3,1040,Ever strong woman.,UK,United Kingdom
+937,2022-08-15,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,782,Passenger car,3.0,1189,Many city material society realize.,UK,United Kingdom
+938,2023-06-03,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,668,Passenger car,3.0,1040,Structure each number.,EU,Norway
+939,2024-01-17,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,889,Vans,3.0,7121,Right manage dark senior easy.,NA,Canada
+940,2023-03-05,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,646,Passenger car,1.8,1176,Into game realize Republican.,UK,United Kingdom
+941,2023-01-23,Diesel (100% mineral diesel),Custom vehicle,Road,3,439,Vans,1.8,4902,Miss affect compare.,UK,United Kingdom
+942,2022-06-09,Diesel (100% mineral diesel),Custom fuel,Road,3,631,Vans,2.4,1047,Reveal special.,UK,United Kingdom
+943,2023-12-10,Liquefied Petrolium Gases (LPG),Custom vehicle,Road,1,946,Passenger car,2.4,1228,Even agreement history risk.,UK,United Kingdom
+944,2022-07-09,Hybrid,Fuel Use and Vehicle Distance,Road,1,742,Passenger car,3.0,7064,Face have million design be just.,NA,Canada
+945,2024-04-07,Compressed Natural Gas (CNG),Fuel Use,Road,3,844,Vans,1.8,3572,Five people.,OC,Australia
+946,2022-12-27,Compressed Natural Gas (CNG),Fuel Use,Road,1,706,Vans,2.0,1329,Quite prevent pull ability.,UK,United Kingdom
+947,2022-01-28,Hybrid,Vehicle Distance (e.g. Road Transport),Road,3,902,Vans,1.3,2110,Address fine describe artist.,EU,Netherlands
+948,2022-10-04,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,901,Passenger car,2.0,1552,South add large mother.,UK,United Kingdom
+949,2023-06-10,Liquefied Petrolium Gases (LPG),Custom fuel,Road,1,545,Passenger car,2.0,2056,Design bag identify upon.,EU,Sweden
+950,2024-08-02,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,884,Passenger car,2.0,1554,Bar miss.,OC,New Zealand
+951,2022-09-30,Compressed Natural Gas (CNG),Custom vehicle,Road,1,923,Passenger car,1.3,6448,Rule set same.,NA,United States
+952,2022-08-18,Hybrid,Fuel Use and Vehicle Distance,Road,1,733,Vans,2.0,1190,Style worker laugh.,EU,Netherlands
+953,2023-06-05,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,527,Vans,3.0,1029,Specific want over challenge situation.,AS,China
+954,2024-06-28,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,974,Vans,3.0,1159,Not such record.,UK,United Kingdom
+955,2024-05-12,Hybrid,Custom vehicle,Road,3,803,Vans,2.0,3908,Then threat company.,EU,Denmark
+956,2023-07-14,Compressed Natural Gas (CNG),Fuel Use and Vehicle Distance,Road,3,924,Vans,1.8,1389,Religious likely cause.,AS,China
+957,2022-12-07,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,939,Vans,2.0,5722,Look hear.,OC,Australia
+958,2024-01-15,Hybrid,Fuel Use,Road,1,409,Vans,1.3,1067,Such early only experience.,UK,United Kingdom
+959,2024-12-07,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,1,593,Vans,1.8,7429,Success play social.,UK,United Kingdom
+960,2022-09-20,Hybrid,Fuel Use and Vehicle Distance,Road,3,849,Passenger car,3.0,6095,Through heart should recognize.,NA,United States
+961,2023-12-19,Compressed Natural Gas (CNG),Custom fuel,Road,1,607,Passenger car,2.4,1354,Force hold.,UK,United Kingdom
+962,2023-03-30,Compressed Natural Gas (CNG),Custom vehicle,Road,1,942,Vans,2.4,5267,Majority whatever fast.,AS,Japan
+963,2024-04-29,Compressed Natural Gas (CNG),Fuel Use,Road,3,541,Passenger car,2.4,3768,Each should vote morning.,EU,Italy
+964,2023-04-28,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,924,Passenger car,2.4,3000,System improve establish.,EU,Spain
+965,2024-11-19,Hybrid,Custom vehicle,Road,1,866,Passenger car,3.0,1538,Protect discover along.,OC,New Zealand
+966,2023-08-07,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use,Road,1,816,Passenger car,2.4,6672,Health relate collection.,EU,Germany
+967,2024-11-10,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,912,Passenger car,1.8,2842,According market.,EU,Norway
+968,2024-02-01,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,1,961,Vans,3.0,1214,Show join detail.,OC,Australia
+969,2024-03-10,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,968,Passenger car,2.4,1081,Day lead record street.,NA,United States
+970,2024-12-07,Compressed Natural Gas (CNG),Fuel Use,Road,1,755,Passenger car,1.3,1582,Account actually.,OC,New Zealand
+971,2022-03-11,Compressed Natural Gas (CNG),Custom vehicle,Road,3,864,Vans,2.4,6665,Chance.,UK,United Kingdom
+972,2024-12-13,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,755,Passenger car,1.8,7475,Cause machine grow back.,UK,United Kingdom
+973,2024-05-29,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,767,Vans,2.4,1543,Near city similar.,UK,United Kingdom
+974,2024-01-23,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,480,Passenger car,1.8,1320,Write modern base.,AS,India
+975,2023-03-03,Petrol (100% mineral petrol) (Motor Gasoline),Custom fuel,Road,1,455,Passenger car,2.0,1257,Break employee pretty.,NA,United States
+976,2024-06-05,Compressed Natural Gas (CNG),Fuel Use,Road,1,899,Passenger car,3.0,1615,Hair table customer.,NA,Canada
+977,2024-06-19,Hybrid,Custom fuel,Road,1,614,Passenger car,2.4,4538,Consumer table.,EU,Germany
+978,2023-04-08,Liquefied Petrolium Gases (LPG),Vehicle Distance (e.g. Road Transport),Road,3,727,Vans,3.0,1703,Woman large door number hold.,UK,United Kingdom
+979,2023-11-18,Hybrid,Fuel Use and Vehicle Distance,Road,3,506,Passenger car,2.0,1455,Scene artist prevent.,EU,Belgium
+980,2022-08-01,Liquefied Petrolium Gases (LPG),Fuel Use,Road,3,854,Passenger car,2.4,3038,Article figure role teacher rich.,OC,New Zealand
+981,2024-10-16,Diesel (100% mineral diesel),Fuel Use and Vehicle Distance,Road,3,558,Vans,2.4,1234,Some can far sit again.,AS,India
+982,2024-11-29,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,583,Vans,2.4,1147,Blood Republican foreign.,EU,France
+983,2023-04-01,Compressed Natural Gas (CNG),Custom vehicle,Road,3,958,Vans,1.3,1716,Writer bank north man.,OC,New Zealand
+984,2024-01-12,Hybrid,Custom vehicle,Road,1,490,Passenger car,1.8,2195,Ability themselves.,EU,Denmark
+985,2023-09-11,Diesel (100% mineral diesel),Custom vehicle,Road,1,959,Vans,1.3,1074,Mind including fight mean when.,UK,United Kingdom
+986,2022-03-11,Compressed Natural Gas (CNG),Vehicle Distance (e.g. Road Transport),Road,1,913,Vans,2.4,1189,Unit appear create number tell.,UK,United Kingdom
+987,2024-03-09,Hybrid,Fuel Use and Vehicle Distance,Road,3,853,Vans,2.0,1071,And ready.,AS,Japan
+988,2024-07-18,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,468,Passenger car,3.0,2161,Support enter activity.,UK,United Kingdom
+989,2023-08-29,Compressed Natural Gas (CNG),Custom fuel,Road,1,576,Passenger car,2.0,1151,Reduce factor religious data.,EU,Switzerland
+990,2023-11-27,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,443,Passenger car,1.8,5139,Couple site human follow.,OC,New Zealand
+991,2023-08-31,Petrol (100% mineral petrol) (Motor Gasoline),Vehicle Distance (e.g. Road Transport),Road,3,443,Vans,1.3,2158,Phone citizen keep section Mrs.,UK,United Kingdom
+992,2023-08-27,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,475,Passenger car,1.8,3782,Gun international that subject.,OC,New Zealand
+993,2024-01-05,Petrol (100% mineral petrol) (Motor Gasoline),Custom vehicle,Road,3,661,Vans,2.0,1473,Music store safe score care.,NA,Canada
+994,2024-12-04,Compressed Natural Gas (CNG),Custom fuel,Road,3,565,Vans,2.0,2479,Lay water sense.,AS,India
+995,2022-10-09,Compressed Natural Gas (CNG),Custom vehicle,Road,3,565,Passenger car,1.3,1062,Can man college party that.,AS,India
+996,2024-04-18,Petrol (100% mineral petrol) (Motor Gasoline),Fuel Use and Vehicle Distance,Road,3,441,Passenger car,3.0,2660,Clearly do answer bag.,AS,China
+997,2022-10-30,Liquefied Petrolium Gases (LPG),Custom fuel,Road,3,917,Vans,3.0,1142,End for clearly tend should.,UK,United Kingdom
+998,2024-08-06,Diesel (100% mineral diesel),Vehicle Distance (e.g. Road Transport),Road,1,940,Vans,1.8,1690,Establish certain course.,EU,Sweden
+999,2024-08-25,Compressed Natural Gas (CNG),Custom vehicle,Road,1,480,Passenger car,1.8,1020,Language final.,EU,France
+1000,2024-08-28,Liquefied Petrolium Gases (LPG),Fuel Use and Vehicle Distance,Road,1,543,Passenger car,1.3,1438,Behind themselves it draw center.,NA,United States
