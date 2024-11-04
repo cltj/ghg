@@ -101,7 +101,7 @@ for fuel_type, vehicle_data in fuel_economy_data.items():
                 "Engine Size/Weight Class": engine_size,
                 "MPG": fuel_stats["mpg"],
                 "KM/L": fuel_stats["km/L"],
-                "fk_mode_of_transport": "road"  # Adding the 'road' foreign key
+                "fk_mode_of_transport": "Road"  # Adding the 'road' foreign key
             }
             rows.append(row)
             unique_id += 1  
