@@ -31,49 +31,24 @@ NUM_FAKE_FACTS = 1000
 # Define the output directory
 output_dir = 'src/model_generator/outputs'
 os.makedirs(output_dir, exist_ok=True)
-# Define the list of regions and their respective countries
-regions_countries = {
-    'UK': ["United Kingdom"],
-    'EU': ["France", "Germany", "Spain", "Italy", "Netherlands", "Sweden", "Norway", "Finland", "Poland", "Belgium", "Denmark", "Switzerland"],
-    'AS': ["Japan", "China", "India"],
-    'NA': ["United States", "Canada"],
-    'OC': ["Australia", "New Zealand"]
-}
 
 # Generate the fake facts
 data = []
 
 for unique_id in range(1, NUM_FAKE_FACTS + 1):
-    region = random.choice(list(regions_countries.keys()))
-    country = random.choice(regions_countries[region])
-    
     row = {
         "id": unique_id,
-        "date": fake.date_time_between_dates(datetime_start=datetime(2022, 1, 1), datetime_end=datetime(2024, 12, 31)).strftime('%Y-%m-%d'),
-        "fuel_used": random.choice([
-            "Petrol (100% mineral petrol) (Motor Gasoline)",
-            "Diesel (100% mineral diesel)",
-            "Hybrid",
-            "Liquefied Petrolium Gases (LPG)",
-            "Compressed Natural Gas (CNG)"
-        ]),
-        "type_of_activity": random.choice(["Fuel Use","Fuel Use and Vehicle Distance", "Vehicle Distance (e.g. Road Transport)", "Custom fuel", "Custom vehicle"]),
-        "mode_of_transport": "Road", # ['Road', 'Rail', 'Water', 'Aircraft', 'Offroad']
+        "date": fake.date_time_between_dates(datetime_start=datetime(2022, 1, 1), datetime_end=datetime(2024, 12, 31)).strftime('%Y%m%d'),
+        "fuel_used_id": random.randint(4,9),
+        "type_of_activity_id": random.randint(1,5),
+        "mode_of_transport_id": random.randint(1,5),
         "scope_id": random.choice([1, 3]),
         "distance_travelled": random.randint(400, 1000),
-        "fuel_used": random.choice([
-            "Petrol (100% mineral petrol) (Motor Gasoline)",
-            "Diesel (100% mineral diesel)",
-            "Hybrid",
-            "Liquefied Petrolium Gases (LPG)",
-            "Compressed Natural Gas (CNG)"
-        ]),
-        "vehicle_type": random.choice(["Passenger car", "Vans"]),
-        "engine_size": random.choice([1.3, 1.8, 2.0, 2.4, 3.0]),
-        "weight_class": random.choice([random.randint(1000, 1300), random.randint(1300, 1740), random.randint(1740, 7500)]),
+        "vehicle_class": random.randint(1, 51),
+        "engine_size": round(random.uniform(1, 10), 1),
+        "weight_class": random.randint(1000, 50000),
         "source_description": fake.sentence(nb_words=random.randint(3, 5)),
-        "region": region,
-        "country": country
+        "country_id": random.randint(1,20),
     }
     data.append(row)
 
